@@ -1,0 +1,82 @@
+[
+ {
+  "Uid": 10000,
+  "LeagueId": 1
+ },
+ {
+  "Uid": 10001,
+  "LeagueId": 1
+ },
+ {
+  "Uid": 10002,
+  "LeagueId": 4
+ },
+ {
+  "Uid": 10003,
+  "LeagueId": 1
+ },
+ {
+  "Uid": 10004,
+  "LeagueId": 3
+ },
+ {
+  "Uid": 10005,
+  "LeagueId": 4
+ },
+ {
+  "Uid": 10006,
+  "LeagueId": 3
+ },
+ {
+  "Uid": 10007,
+  "LeagueId": 3
+ },
+ {
+  "Uid": 10008,
+  "LeagueId": 2
+ },
+ {
+  "Uid": 10009,
+  "LeagueId": 5
+ },
+ {
+  "Uid": 10010,
+  "LeagueId": 5
+ },
+ {
+  "Uid": 10011,
+  "LeagueId": 4
+ },
+ {
+  "Uid": 10012,
+  "LeagueId": 2
+ },
+ {
+  "Uid": 10013,
+  "LeagueId": 1
+ },
+ {
+  "Uid": 10014,
+  "LeagueId": 2
+ },
+ {
+  "Uid": 10015,
+  "LeagueId": 2
+ },
+ {
+  "Uid": 10016,
+  "LeagueId": 5
+ },
+ {
+  "Uid": 10017,
+  "LeagueId": 4
+ },
+ {
+  "Uid": 10018,
+  "LeagueId": 1
+ },
+ {
+  "Uid": 10019,
+  "LeagueId": 2
+ }
+]
