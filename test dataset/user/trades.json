@@ -1,0 +1,7170 @@
+[
+ {
+  "TradeId": 10000,
+  "Uid": 10000,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-10 16:46:13"
+ },
+ {
+  "TradeId": 10001,
+  "Uid": 10000,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-16 08:03:47"
+ },
+ {
+  "TradeId": 10002,
+  "Uid": 10000,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-28 12:31:08"
+ },
+ {
+  "TradeId": 10003,
+  "Uid": 10000,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-10 21:50:15"
+ },
+ {
+  "TradeId": 10004,
+  "Uid": 10000,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-27 19:18:57"
+ },
+ {
+  "TradeId": 10005,
+  "Uid": 10000,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-18 07:22:26"
+ },
+ {
+  "TradeId": 10006,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-18 12:18:00"
+ },
+ {
+  "TradeId": 10007,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-07 20:48:50"
+ },
+ {
+  "TradeId": 10008,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-06 12:07:19"
+ },
+ {
+  "TradeId": 10009,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-10 22:17:57"
+ },
+ {
+  "TradeId": 10010,
+  "Uid": 10000,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-19 03:17:25"
+ },
+ {
+  "TradeId": 10011,
+  "Uid": 10000,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-09 18:32:54"
+ },
+ {
+  "TradeId": 10012,
+  "Uid": 10000,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-25 16:37:11"
+ },
+ {
+  "TradeId": 10013,
+  "Uid": 10000,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-25 17:09:50"
+ },
+ {
+  "TradeId": 10014,
+  "Uid": 10000,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-14 17:15:11"
+ },
+ {
+  "TradeId": 10015,
+  "Uid": 10000,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-17 11:03:53"
+ },
+ {
+  "TradeId": 10016,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-24 03:15:33"
+ },
+ {
+  "TradeId": 10017,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-04 12:32:54"
+ },
+ {
+  "TradeId": 10018,
+  "Uid": 10000,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-20 09:53:45"
+ },
+ {
+  "TradeId": 10019,
+  "Uid": 10000,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-02 09:31:04"
+ },
+ {
+  "TradeId": 10020,
+  "Uid": 10000,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-06 02:00:35"
+ },
+ {
+  "TradeId": 10021,
+  "Uid": 10000,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-17 06:41:07"
+ },
+ {
+  "TradeId": 10022,
+  "Uid": 10000,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-20 23:23:36"
+ },
+ {
+  "TradeId": 10023,
+  "Uid": 10000,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-18 06:51:00"
+ },
+ {
+  "TradeId": 10024,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-20 02:23:22"
+ },
+ {
+  "TradeId": 10025,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-16 14:34:34"
+ },
+ {
+  "TradeId": 10026,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-29 01:04:17"
+ },
+ {
+  "TradeId": 10027,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-08 15:32:00"
+ },
+ {
+  "TradeId": 10028,
+  "Uid": 10000,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-30 23:01:30"
+ },
+ {
+  "TradeId": 10029,
+  "Uid": 10000,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-02 10:22:13"
+ },
+ {
+  "TradeId": 10030,
+  "Uid": 10000,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-19 00:35:26"
+ },
+ {
+  "TradeId": 10031,
+  "Uid": 10000,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-09-23 13:27:54"
+ },
+ {
+  "TradeId": 10032,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-24 20:17:36"
+ },
+ {
+  "TradeId": 10033,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-17 14:47:45"
+ },
+ {
+  "TradeId": 10034,
+  "Uid": 10000,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-06 00:59:38"
+ },
+ {
+  "TradeId": 10035,
+  "Uid": 10000,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-17 19:22:26"
+ },
+ {
+  "TradeId": 10036,
+  "Uid": 10000,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-25 19:27:15"
+ },
+ {
+  "TradeId": 10037,
+  "Uid": 10000,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-09-28 11:55:32"
+ },
+ {
+  "TradeId": 10038,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-25 00:58:23"
+ },
+ {
+  "TradeId": 10039,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-01 00:16:15"
+ },
+ {
+  "TradeId": 10040,
+  "Uid": 10000,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-03 00:38:18"
+ },
+ {
+  "TradeId": 10041,
+  "Uid": 10000,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-13 04:19:46"
+ },
+ {
+  "TradeId": 10042,
+  "Uid": 10000,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-22 07:51:14"
+ },
+ {
+  "TradeId": 10043,
+  "Uid": 10000,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-09-25 06:59:07"
+ },
+ {
+  "TradeId": 10044,
+  "Uid": 10000,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-23 02:02:48"
+ },
+ {
+  "TradeId": 10045,
+  "Uid": 10000,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-13 12:06:42"
+ },
+ {
+  "TradeId": 10046,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-27 05:37:42"
+ },
+ {
+  "TradeId": 10047,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-29 23:42:54"
+ },
+ {
+  "TradeId": 10048,
+  "Uid": 10000,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-10 17:52:36"
+ },
+ {
+  "TradeId": 10049,
+  "Uid": 10000,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-11 17:34:00"
+ },
+ {
+  "TradeId": 10050,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-07 14:37:02"
+ },
+ {
+  "TradeId": 10051,
+  "Uid": 10000,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-08 12:04:30"
+ },
+ {
+  "TradeId": 10052,
+  "Uid": 10000,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-23 10:29:09"
+ },
+ {
+  "TradeId": 10053,
+  "Uid": 10000,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-09-27 16:07:24"
+ },
+ {
+  "TradeId": 10054,
+  "Uid": 10000,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-01 09:15:20"
+ },
+ {
+  "TradeId": 10055,
+  "Uid": 10000,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-18 19:08:18"
+ },
+ {
+  "TradeId": 10056,
+  "Uid": 10000,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-21 03:30:49"
+ },
+ {
+  "TradeId": 10057,
+  "Uid": 10000,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-22 08:08:28"
+ },
+ {
+  "TradeId": 10058,
+  "Uid": 10000,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-27 14:08:52"
+ },
+ {
+  "TradeId": 10059,
+  "Uid": 10000,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-09-30 14:16:20"
+ },
+ {
+  "TradeId": 10060,
+  "Uid": 10001,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-27 12:51:55"
+ },
+ {
+  "TradeId": 10061,
+  "Uid": 10001,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-17 19:37:29"
+ },
+ {
+  "TradeId": 10062,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-20 12:44:28"
+ },
+ {
+  "TradeId": 10063,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-09-26 03:04:57"
+ },
+ {
+  "TradeId": 10064,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-30 15:10:25"
+ },
+ {
+  "TradeId": 10065,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-03 19:07:45"
+ },
+ {
+  "TradeId": 10066,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-18 19:03:31"
+ },
+ {
+  "TradeId": 10067,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-27 19:28:12"
+ },
+ {
+  "TradeId": 10068,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-29 14:04:52"
+ },
+ {
+  "TradeId": 10069,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-18 16:32:54"
+ },
+ {
+  "TradeId": 10070,
+  "Uid": 10001,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-05 15:49:04"
+ },
+ {
+  "TradeId": 10071,
+  "Uid": 10001,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-09 02:42:56"
+ },
+ {
+  "TradeId": 10072,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-01 14:59:06"
+ },
+ {
+  "TradeId": 10073,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-15 23:22:23"
+ },
+ {
+  "TradeId": 10074,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-02 05:01:56"
+ },
+ {
+  "TradeId": 10075,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-17 01:16:42"
+ },
+ {
+  "TradeId": 10076,
+  "Uid": 10001,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-18 21:33:31"
+ },
+ {
+  "TradeId": 10077,
+  "Uid": 10001,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-09-27 07:12:17"
+ },
+ {
+  "TradeId": 10078,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-19 20:07:08"
+ },
+ {
+  "TradeId": 10079,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-05 07:32:05"
+ },
+ {
+  "TradeId": 10080,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-19 03:26:27"
+ },
+ {
+  "TradeId": 10081,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-15 04:24:52"
+ },
+ {
+  "TradeId": 10082,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-01 21:51:19"
+ },
+ {
+  "TradeId": 10083,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-12 02:17:40"
+ },
+ {
+  "TradeId": 10084,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-27 01:45:25"
+ },
+ {
+  "TradeId": 10085,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-08 10:04:12"
+ },
+ {
+  "TradeId": 10086,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-20 10:06:52"
+ },
+ {
+  "TradeId": 10087,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-20 17:31:53"
+ },
+ {
+  "TradeId": 10088,
+  "Uid": 10001,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-23 09:20:58"
+ },
+ {
+  "TradeId": 10089,
+  "Uid": 10001,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-06 01:50:34"
+ },
+ {
+  "TradeId": 10090,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-10 18:14:30"
+ },
+ {
+  "TradeId": 10091,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-11 05:23:48"
+ },
+ {
+  "TradeId": 10092,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-19 11:05:16"
+ },
+ {
+  "TradeId": 10093,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-14 11:32:51"
+ },
+ {
+  "TradeId": 10094,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-24 11:04:52"
+ },
+ {
+  "TradeId": 10095,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-13 09:47:38"
+ },
+ {
+  "TradeId": 10096,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-18 20:52:49"
+ },
+ {
+  "TradeId": 10097,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-14 18:19:36"
+ },
+ {
+  "TradeId": 10098,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-02 19:19:06"
+ },
+ {
+  "TradeId": 10099,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-16 14:43:37"
+ },
+ {
+  "TradeId": 10100,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-03 03:34:36"
+ },
+ {
+  "TradeId": 10101,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-11 05:30:19"
+ },
+ {
+  "TradeId": 10102,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-21 07:50:56"
+ },
+ {
+  "TradeId": 10103,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-09-21 15:00:55"
+ },
+ {
+  "TradeId": 10104,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-20 09:34:41"
+ },
+ {
+  "TradeId": 10105,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-09 10:34:26"
+ },
+ {
+  "TradeId": 10106,
+  "Uid": 10001,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-22 18:16:28"
+ },
+ {
+  "TradeId": 10107,
+  "Uid": 10001,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-15 13:58:16"
+ },
+ {
+  "TradeId": 10108,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-19 09:01:36"
+ },
+ {
+  "TradeId": 10109,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-18 20:00:27"
+ },
+ {
+  "TradeId": 10110,
+  "Uid": 10001,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-19 17:33:52"
+ },
+ {
+  "TradeId": 10111,
+  "Uid": 10001,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-28 11:16:38"
+ },
+ {
+  "TradeId": 10112,
+  "Uid": 10001,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-23 17:34:27"
+ },
+ {
+  "TradeId": 10113,
+  "Uid": 10001,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-11 08:33:48"
+ },
+ {
+  "TradeId": 10114,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-19 04:18:47"
+ },
+ {
+  "TradeId": 10115,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-26 17:58:33"
+ },
+ {
+  "TradeId": 10116,
+  "Uid": 10001,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-29 02:42:41"
+ },
+ {
+  "TradeId": 10117,
+  "Uid": 10001,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-04 18:19:56"
+ },
+ {
+  "TradeId": 10118,
+  "Uid": 10001,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-24 23:48:48"
+ },
+ {
+  "TradeId": 10119,
+  "Uid": 10001,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-29 04:24:21"
+ },
+ {
+  "TradeId": 10120,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-21 12:23:36"
+ },
+ {
+  "TradeId": 10121,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-11 06:07:47"
+ },
+ {
+  "TradeId": 10122,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-27 15:42:47"
+ },
+ {
+  "TradeId": 10123,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-17 01:01:10"
+ },
+ {
+  "TradeId": 10124,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-04 11:01:08"
+ },
+ {
+  "TradeId": 10125,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-11 06:40:42"
+ },
+ {
+  "TradeId": 10126,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-27 05:14:35"
+ },
+ {
+  "TradeId": 10127,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-06 22:32:13"
+ },
+ {
+  "TradeId": 10128,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-25 09:21:32"
+ },
+ {
+  "TradeId": 10129,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-09-28 07:35:08"
+ },
+ {
+  "TradeId": 10130,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-22 08:25:55"
+ },
+ {
+  "TradeId": 10131,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-25 20:41:43"
+ },
+ {
+  "TradeId": 10132,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-04 07:13:29"
+ },
+ {
+  "TradeId": 10133,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-14 00:20:52"
+ },
+ {
+  "TradeId": 10134,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-19 07:28:17"
+ },
+ {
+  "TradeId": 10135,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-17 03:10:06"
+ },
+ {
+  "TradeId": 10136,
+  "Uid": 10001,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-18 19:31:11"
+ },
+ {
+  "TradeId": 10137,
+  "Uid": 10001,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-24 23:23:48"
+ },
+ {
+  "TradeId": 10138,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-23 18:56:21"
+ },
+ {
+  "TradeId": 10139,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-18 18:40:44"
+ },
+ {
+  "TradeId": 10140,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-25 08:23:24"
+ },
+ {
+  "TradeId": 10141,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-04 01:26:12"
+ },
+ {
+  "TradeId": 10142,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-14 12:12:16"
+ },
+ {
+  "TradeId": 10143,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-16 12:23:25"
+ },
+ {
+  "TradeId": 10144,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-24 09:21:47"
+ },
+ {
+  "TradeId": 10145,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-18 07:13:08"
+ },
+ {
+  "TradeId": 10146,
+  "Uid": 10001,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-21 07:09:55"
+ },
+ {
+  "TradeId": 10147,
+  "Uid": 10001,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-21 07:28:18"
+ },
+ {
+  "TradeId": 10148,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-25 13:13:36"
+ },
+ {
+  "TradeId": 10149,
+  "Uid": 10001,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-08 16:33:25"
+ },
+ {
+  "TradeId": 10150,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-22 14:44:05"
+ },
+ {
+  "TradeId": 10151,
+  "Uid": 10001,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-09 15:07:06"
+ },
+ {
+  "TradeId": 10152,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-09 05:38:32"
+ },
+ {
+  "TradeId": 10153,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-09 09:15:56"
+ },
+ {
+  "TradeId": 10154,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-19 03:12:39"
+ },
+ {
+  "TradeId": 10155,
+  "Uid": 10001,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-16 11:03:16"
+ },
+ {
+  "TradeId": 10156,
+  "Uid": 10002,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-22 10:41:13"
+ },
+ {
+  "TradeId": 10157,
+  "Uid": 10002,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-08 06:31:15"
+ },
+ {
+  "TradeId": 10158,
+  "Uid": 10002,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-19 03:05:07"
+ },
+ {
+  "TradeId": 10159,
+  "Uid": 10002,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-17 08:11:18"
+ },
+ {
+  "TradeId": 10160,
+  "Uid": 10002,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-21 18:31:33"
+ },
+ {
+  "TradeId": 10161,
+  "Uid": 10002,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-15 12:10:40"
+ },
+ {
+  "TradeId": 10162,
+  "Uid": 10002,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-28 22:20:50"
+ },
+ {
+  "TradeId": 10163,
+  "Uid": 10002,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-16 17:50:34"
+ },
+ {
+  "TradeId": 10164,
+  "Uid": 10003,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-24 04:22:31"
+ },
+ {
+  "TradeId": 10165,
+  "Uid": 10003,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-12 04:29:02"
+ },
+ {
+  "TradeId": 10166,
+  "Uid": 10003,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-10 04:29:53"
+ },
+ {
+  "TradeId": 10167,
+  "Uid": 10003,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-18 15:32:06"
+ },
+ {
+  "TradeId": 10168,
+  "Uid": 10003,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-29 22:56:36"
+ },
+ {
+  "TradeId": 10169,
+  "Uid": 10003,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-15 15:28:26"
+ },
+ {
+  "TradeId": 10170,
+  "Uid": 10003,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-30 21:25:36"
+ },
+ {
+  "TradeId": 10171,
+  "Uid": 10003,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-16 22:24:12"
+ },
+ {
+  "TradeId": 10172,
+  "Uid": 10003,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-02 14:57:20"
+ },
+ {
+  "TradeId": 10173,
+  "Uid": 10003,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-08 04:33:23"
+ },
+ {
+  "TradeId": 10174,
+  "Uid": 10003,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-08 13:40:10"
+ },
+ {
+  "TradeId": 10175,
+  "Uid": 10003,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-10 13:09:09"
+ },
+ {
+  "TradeId": 10176,
+  "Uid": 10003,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-24 03:14:31"
+ },
+ {
+  "TradeId": 10177,
+  "Uid": 10003,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-09 09:35:40"
+ },
+ {
+  "TradeId": 10178,
+  "Uid": 10003,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-23 07:22:31"
+ },
+ {
+  "TradeId": 10179,
+  "Uid": 10003,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-30 10:39:17"
+ },
+ {
+  "TradeId": 10180,
+  "Uid": 10003,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-19 19:57:56"
+ },
+ {
+  "TradeId": 10181,
+  "Uid": 10003,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-18 02:00:36"
+ },
+ {
+  "TradeId": 10182,
+  "Uid": 10003,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-05 22:35:31"
+ },
+ {
+  "TradeId": 10183,
+  "Uid": 10003,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-10 17:56:04"
+ },
+ {
+  "TradeId": 10184,
+  "Uid": 10003,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-02 15:05:14"
+ },
+ {
+  "TradeId": 10185,
+  "Uid": 10003,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-10 01:57:18"
+ },
+ {
+  "TradeId": 10186,
+  "Uid": 10003,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-25 16:29:14"
+ },
+ {
+  "TradeId": 10187,
+  "Uid": 10003,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-10 11:18:00"
+ },
+ {
+  "TradeId": 10188,
+  "Uid": 10003,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-20 15:49:17"
+ },
+ {
+  "TradeId": 10189,
+  "Uid": 10003,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-09-24 19:31:38"
+ },
+ {
+  "TradeId": 10190,
+  "Uid": 10003,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-27 09:06:15"
+ },
+ {
+  "TradeId": 10191,
+  "Uid": 10003,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-09 14:36:38"
+ },
+ {
+  "TradeId": 10192,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-02 00:59:55"
+ },
+ {
+  "TradeId": 10193,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-16 20:03:16"
+ },
+ {
+  "TradeId": 10194,
+  "Uid": 10004,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-22 11:07:54"
+ },
+ {
+  "TradeId": 10195,
+  "Uid": 10004,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-04 11:31:16"
+ },
+ {
+  "TradeId": 10196,
+  "Uid": 10004,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-11 05:49:25"
+ },
+ {
+  "TradeId": 10197,
+  "Uid": 10004,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-13 10:24:02"
+ },
+ {
+  "TradeId": 10198,
+  "Uid": 10004,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-18 18:27:14"
+ },
+ {
+  "TradeId": 10199,
+  "Uid": 10004,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-13 03:59:38"
+ },
+ {
+  "TradeId": 10200,
+  "Uid": 10004,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-23 14:05:05"
+ },
+ {
+  "TradeId": 10201,
+  "Uid": 10004,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-17 11:47:58"
+ },
+ {
+  "TradeId": 10202,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-18 14:31:56"
+ },
+ {
+  "TradeId": 10203,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-04 10:26:28"
+ },
+ {
+  "TradeId": 10204,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-29 20:20:47"
+ },
+ {
+  "TradeId": 10205,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-01 11:48:48"
+ },
+ {
+  "TradeId": 10206,
+  "Uid": 10004,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-18 18:06:45"
+ },
+ {
+  "TradeId": 10207,
+  "Uid": 10004,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-03 17:01:45"
+ },
+ {
+  "TradeId": 10208,
+  "Uid": 10004,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-24 14:17:15"
+ },
+ {
+  "TradeId": 10209,
+  "Uid": 10004,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-09 22:15:50"
+ },
+ {
+  "TradeId": 10210,
+  "Uid": 10004,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-26 14:25:17"
+ },
+ {
+  "TradeId": 10211,
+  "Uid": 10004,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-27 20:33:33"
+ },
+ {
+  "TradeId": 10212,
+  "Uid": 10004,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-28 19:25:55"
+ },
+ {
+  "TradeId": 10213,
+  "Uid": 10004,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-07 13:42:21"
+ },
+ {
+  "TradeId": 10214,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-22 11:31:38"
+ },
+ {
+  "TradeId": 10215,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-10 04:16:26"
+ },
+ {
+  "TradeId": 10216,
+  "Uid": 10004,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-29 00:33:33"
+ },
+ {
+  "TradeId": 10217,
+  "Uid": 10004,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-14 03:18:03"
+ },
+ {
+  "TradeId": 10218,
+  "Uid": 10004,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-30 00:28:17"
+ },
+ {
+  "TradeId": 10219,
+  "Uid": 10004,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-02 13:13:04"
+ },
+ {
+  "TradeId": 10220,
+  "Uid": 10004,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-28 20:28:38"
+ },
+ {
+  "TradeId": 10221,
+  "Uid": 10004,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-07 23:43:05"
+ },
+ {
+  "TradeId": 10222,
+  "Uid": 10004,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-20 03:29:32"
+ },
+ {
+  "TradeId": 10223,
+  "Uid": 10004,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-18 14:39:06"
+ },
+ {
+  "TradeId": 10224,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-30 09:06:03"
+ },
+ {
+  "TradeId": 10225,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-16 10:39:06"
+ },
+ {
+  "TradeId": 10226,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-20 15:17:38"
+ },
+ {
+  "TradeId": 10227,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-17 11:18:48"
+ },
+ {
+  "TradeId": 10228,
+  "Uid": 10004,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-10 21:13:15"
+ },
+ {
+  "TradeId": 10229,
+  "Uid": 10004,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-15 19:32:50"
+ },
+ {
+  "TradeId": 10230,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-07 22:06:46"
+ },
+ {
+  "TradeId": 10231,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-13 03:50:21"
+ },
+ {
+  "TradeId": 10232,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-30 12:54:55"
+ },
+ {
+  "TradeId": 10233,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-04 00:00:48"
+ },
+ {
+  "TradeId": 10234,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-05 10:20:50"
+ },
+ {
+  "TradeId": 10235,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-09 09:39:41"
+ },
+ {
+  "TradeId": 10236,
+  "Uid": 10004,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-08 19:30:15"
+ },
+ {
+  "TradeId": 10237,
+  "Uid": 10004,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-13 09:03:28"
+ },
+ {
+  "TradeId": 10238,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-15 11:51:28"
+ },
+ {
+  "TradeId": 10239,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-18 04:43:24"
+ },
+ {
+  "TradeId": 10240,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-19 11:53:52"
+ },
+ {
+  "TradeId": 10241,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-27 11:36:20"
+ },
+ {
+  "TradeId": 10242,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-24 04:13:25"
+ },
+ {
+  "TradeId": 10243,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-30 09:26:21"
+ },
+ {
+  "TradeId": 10244,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-23 19:26:28"
+ },
+ {
+  "TradeId": 10245,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-11 16:07:05"
+ },
+ {
+  "TradeId": 10246,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-30 01:12:09"
+ },
+ {
+  "TradeId": 10247,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-01 22:49:15"
+ },
+ {
+  "TradeId": 10248,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-17 12:13:01"
+ },
+ {
+  "TradeId": 10249,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-17 18:48:53"
+ },
+ {
+  "TradeId": 10250,
+  "Uid": 10004,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-06 14:08:34"
+ },
+ {
+  "TradeId": 10251,
+  "Uid": 10004,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-11 16:54:09"
+ },
+ {
+  "TradeId": 10252,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-28 19:38:04"
+ },
+ {
+  "TradeId": 10253,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-11 09:27:26"
+ },
+ {
+  "TradeId": 10254,
+  "Uid": 10004,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-01 00:13:38"
+ },
+ {
+  "TradeId": 10255,
+  "Uid": 10004,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-10 02:30:10"
+ },
+ {
+  "TradeId": 10256,
+  "Uid": 10004,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-03 21:48:44"
+ },
+ {
+  "TradeId": 10257,
+  "Uid": 10004,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-18 02:51:43"
+ },
+ {
+  "TradeId": 10258,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-02 07:32:03"
+ },
+ {
+  "TradeId": 10259,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-04 16:42:18"
+ },
+ {
+  "TradeId": 10260,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-23 05:36:05"
+ },
+ {
+  "TradeId": 10261,
+  "Uid": 10004,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-01 17:30:04"
+ },
+ {
+  "TradeId": 10262,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-20 04:48:02"
+ },
+ {
+  "TradeId": 10263,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-25 01:45:31"
+ },
+ {
+  "TradeId": 10264,
+  "Uid": 10004,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-26 04:00:02"
+ },
+ {
+  "TradeId": 10265,
+  "Uid": 10004,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-15 17:04:13"
+ },
+ {
+  "TradeId": 10266,
+  "Uid": 10004,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-23 20:38:30"
+ },
+ {
+  "TradeId": 10267,
+  "Uid": 10004,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-27 00:14:22"
+ },
+ {
+  "TradeId": 10268,
+  "Uid": 10004,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-18 21:57:52"
+ },
+ {
+  "TradeId": 10269,
+  "Uid": 10004,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-07 04:28:58"
+ },
+ {
+  "TradeId": 10270,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-20 17:17:55"
+ },
+ {
+  "TradeId": 10271,
+  "Uid": 10004,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-27 15:43:41"
+ },
+ {
+  "TradeId": 10272,
+  "Uid": 10004,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-21 23:59:44"
+ },
+ {
+  "TradeId": 10273,
+  "Uid": 10004,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-09-27 06:16:55"
+ },
+ {
+  "TradeId": 10274,
+  "Uid": 10005,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-22 12:30:59"
+ },
+ {
+  "TradeId": 10275,
+  "Uid": 10005,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-13 02:14:05"
+ },
+ {
+  "TradeId": 10276,
+  "Uid": 10005,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-25 16:14:59"
+ },
+ {
+  "TradeId": 10277,
+  "Uid": 10005,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-30 16:23:23"
+ },
+ {
+  "TradeId": 10278,
+  "Uid": 10005,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-29 18:05:05"
+ },
+ {
+  "TradeId": 10279,
+  "Uid": 10005,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-30 05:24:25"
+ },
+ {
+  "TradeId": 10280,
+  "Uid": 10005,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-08 18:23:38"
+ },
+ {
+  "TradeId": 10281,
+  "Uid": 10005,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-09 18:54:45"
+ },
+ {
+  "TradeId": 10282,
+  "Uid": 10005,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-05 19:05:29"
+ },
+ {
+  "TradeId": 10283,
+  "Uid": 10005,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-15 15:45:04"
+ },
+ {
+  "TradeId": 10284,
+  "Uid": 10005,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-23 15:25:51"
+ },
+ {
+  "TradeId": 10285,
+  "Uid": 10005,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-08 02:57:39"
+ },
+ {
+  "TradeId": 10286,
+  "Uid": 10005,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-28 01:58:09"
+ },
+ {
+  "TradeId": 10287,
+  "Uid": 10005,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-09 11:48:53"
+ },
+ {
+  "TradeId": 10288,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-07 06:57:31"
+ },
+ {
+  "TradeId": 10289,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-08 06:10:38"
+ },
+ {
+  "TradeId": 10290,
+  "Uid": 10005,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-03 02:23:06"
+ },
+ {
+  "TradeId": 10291,
+  "Uid": 10005,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-11 18:36:55"
+ },
+ {
+  "TradeId": 10292,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-21 13:21:00"
+ },
+ {
+  "TradeId": 10293,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-03 00:41:51"
+ },
+ {
+  "TradeId": 10294,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-26 21:17:09"
+ },
+ {
+  "TradeId": 10295,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-07 15:32:13"
+ },
+ {
+  "TradeId": 10296,
+  "Uid": 10005,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-27 23:26:55"
+ },
+ {
+  "TradeId": 10297,
+  "Uid": 10005,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-06 09:20:58"
+ },
+ {
+  "TradeId": 10298,
+  "Uid": 10005,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-15 17:02:05"
+ },
+ {
+  "TradeId": 10299,
+  "Uid": 10005,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-18 06:02:57"
+ },
+ {
+  "TradeId": 10300,
+  "Uid": 10005,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-29 16:24:59"
+ },
+ {
+  "TradeId": 10301,
+  "Uid": 10005,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-10 01:26:06"
+ },
+ {
+  "TradeId": 10302,
+  "Uid": 10005,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-20 15:23:26"
+ },
+ {
+  "TradeId": 10303,
+  "Uid": 10005,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-11 16:15:38"
+ },
+ {
+  "TradeId": 10304,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-04 11:27:24"
+ },
+ {
+  "TradeId": 10305,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-05 14:41:56"
+ },
+ {
+  "TradeId": 10306,
+  "Uid": 10005,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-22 11:38:02"
+ },
+ {
+  "TradeId": 10307,
+  "Uid": 10005,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-29 08:17:50"
+ },
+ {
+  "TradeId": 10308,
+  "Uid": 10005,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-26 01:11:00"
+ },
+ {
+  "TradeId": 10309,
+  "Uid": 10005,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-14 01:33:38"
+ },
+ {
+  "TradeId": 10310,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-18 14:50:07"
+ },
+ {
+  "TradeId": 10311,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-19 00:36:34"
+ },
+ {
+  "TradeId": 10312,
+  "Uid": 10005,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-23 01:08:17"
+ },
+ {
+  "TradeId": 10313,
+  "Uid": 10005,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-09-27 09:45:19"
+ },
+ {
+  "TradeId": 10314,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-09 11:00:54"
+ },
+ {
+  "TradeId": 10315,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-15 17:35:27"
+ },
+ {
+  "TradeId": 10316,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-22 18:45:17"
+ },
+ {
+  "TradeId": 10317,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-28 09:54:09"
+ },
+ {
+  "TradeId": 10318,
+  "Uid": 10005,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-29 13:13:28"
+ },
+ {
+  "TradeId": 10319,
+  "Uid": 10005,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-02 15:33:39"
+ },
+ {
+  "TradeId": 10320,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-21 19:39:38"
+ },
+ {
+  "TradeId": 10321,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-25 01:14:19"
+ },
+ {
+  "TradeId": 10322,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-19 23:53:08"
+ },
+ {
+  "TradeId": 10323,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-26 09:30:58"
+ },
+ {
+  "TradeId": 10324,
+  "Uid": 10005,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-07 22:48:44"
+ },
+ {
+  "TradeId": 10325,
+  "Uid": 10005,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-13 19:01:25"
+ },
+ {
+  "TradeId": 10326,
+  "Uid": 10005,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-24 15:59:51"
+ },
+ {
+  "TradeId": 10327,
+  "Uid": 10005,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-02 23:00:35"
+ },
+ {
+  "TradeId": 10328,
+  "Uid": 10005,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-22 04:58:27"
+ },
+ {
+  "TradeId": 10329,
+  "Uid": 10005,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-03 23:13:12"
+ },
+ {
+  "TradeId": 10330,
+  "Uid": 10005,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-23 20:37:05"
+ },
+ {
+  "TradeId": 10331,
+  "Uid": 10005,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-12 20:44:28"
+ },
+ {
+  "TradeId": 10332,
+  "Uid": 10005,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-06 01:28:32"
+ },
+ {
+  "TradeId": 10333,
+  "Uid": 10005,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-07 16:50:28"
+ },
+ {
+  "TradeId": 10334,
+  "Uid": 10005,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-01 12:48:31"
+ },
+ {
+  "TradeId": 10335,
+  "Uid": 10005,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-12 11:21:48"
+ },
+ {
+  "TradeId": 10336,
+  "Uid": 10005,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-23 00:25:14"
+ },
+ {
+  "TradeId": 10337,
+  "Uid": 10005,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-11 07:59:03"
+ },
+ {
+  "TradeId": 10338,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-21 21:58:19"
+ },
+ {
+  "TradeId": 10339,
+  "Uid": 10005,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-27 15:42:33"
+ },
+ {
+  "TradeId": 10340,
+  "Uid": 10006,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-25 00:37:57"
+ },
+ {
+  "TradeId": 10341,
+  "Uid": 10006,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-09 14:12:27"
+ },
+ {
+  "TradeId": 10342,
+  "Uid": 10006,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-22 21:53:45"
+ },
+ {
+  "TradeId": 10343,
+  "Uid": 10006,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-16 04:02:06"
+ },
+ {
+  "TradeId": 10344,
+  "Uid": 10006,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-26 22:03:31"
+ },
+ {
+  "TradeId": 10345,
+  "Uid": 10006,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-05 10:18:59"
+ },
+ {
+  "TradeId": 10346,
+  "Uid": 10006,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-02 17:36:08"
+ },
+ {
+  "TradeId": 10347,
+  "Uid": 10006,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-04 07:42:41"
+ },
+ {
+  "TradeId": 10348,
+  "Uid": 10006,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-05 00:15:15"
+ },
+ {
+  "TradeId": 10349,
+  "Uid": 10006,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-06 15:11:10"
+ },
+ {
+  "TradeId": 10350,
+  "Uid": 10006,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-18 14:56:48"
+ },
+ {
+  "TradeId": 10351,
+  "Uid": 10006,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-14 22:18:25"
+ },
+ {
+  "TradeId": 10352,
+  "Uid": 10006,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-25 00:41:32"
+ },
+ {
+  "TradeId": 10353,
+  "Uid": 10006,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-17 11:56:37"
+ },
+ {
+  "TradeId": 10354,
+  "Uid": 10006,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-19 12:49:42"
+ },
+ {
+  "TradeId": 10355,
+  "Uid": 10006,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-26 06:05:34"
+ },
+ {
+  "TradeId": 10356,
+  "Uid": 10006,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-10 16:22:20"
+ },
+ {
+  "TradeId": 10357,
+  "Uid": 10006,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-15 04:59:39"
+ },
+ {
+  "TradeId": 10358,
+  "Uid": 10006,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-09 14:01:46"
+ },
+ {
+  "TradeId": 10359,
+  "Uid": 10006,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-15 05:24:17"
+ },
+ {
+  "TradeId": 10360,
+  "Uid": 10006,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-28 06:26:14"
+ },
+ {
+  "TradeId": 10361,
+  "Uid": 10006,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-10 23:35:17"
+ },
+ {
+  "TradeId": 10362,
+  "Uid": 10006,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-27 20:42:06"
+ },
+ {
+  "TradeId": 10363,
+  "Uid": 10006,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-14 08:41:47"
+ },
+ {
+  "TradeId": 10364,
+  "Uid": 10006,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-27 12:21:20"
+ },
+ {
+  "TradeId": 10365,
+  "Uid": 10006,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-17 04:25:31"
+ },
+ {
+  "TradeId": 10366,
+  "Uid": 10006,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-22 21:16:23"
+ },
+ {
+  "TradeId": 10367,
+  "Uid": 10006,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-14 19:59:14"
+ },
+ {
+  "TradeId": 10368,
+  "Uid": 10006,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-09 08:24:50"
+ },
+ {
+  "TradeId": 10369,
+  "Uid": 10006,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-12 18:24:40"
+ },
+ {
+  "TradeId": 10370,
+  "Uid": 10006,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-29 01:16:09"
+ },
+ {
+  "TradeId": 10371,
+  "Uid": 10006,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-05 16:39:46"
+ },
+ {
+  "TradeId": 10372,
+  "Uid": 10006,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-20 22:32:17"
+ },
+ {
+  "TradeId": 10373,
+  "Uid": 10006,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-23 03:20:40"
+ },
+ {
+  "TradeId": 10374,
+  "Uid": 10006,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-02 20:20:49"
+ },
+ {
+  "TradeId": 10375,
+  "Uid": 10006,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-16 15:14:34"
+ },
+ {
+  "TradeId": 10376,
+  "Uid": 10006,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-09 01:31:48"
+ },
+ {
+  "TradeId": 10377,
+  "Uid": 10006,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-13 14:28:43"
+ },
+ {
+  "TradeId": 10378,
+  "Uid": 10006,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-24 23:12:42"
+ },
+ {
+  "TradeId": 10379,
+  "Uid": 10006,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-10 11:05:46"
+ },
+ {
+  "TradeId": 10380,
+  "Uid": 10006,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-24 21:19:45"
+ },
+ {
+  "TradeId": 10381,
+  "Uid": 10006,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-10 07:39:30"
+ },
+ {
+  "TradeId": 10382,
+  "Uid": 10006,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-25 04:26:09"
+ },
+ {
+  "TradeId": 10383,
+  "Uid": 10006,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-03 05:32:31"
+ },
+ {
+  "TradeId": 10384,
+  "Uid": 10006,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-01 10:07:06"
+ },
+ {
+  "TradeId": 10385,
+  "Uid": 10006,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-04 07:09:42"
+ },
+ {
+  "TradeId": 10386,
+  "Uid": 10006,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-02 07:42:07"
+ },
+ {
+  "TradeId": 10387,
+  "Uid": 10006,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-12 23:39:37"
+ },
+ {
+  "TradeId": 10388,
+  "Uid": 10007,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-29 01:37:51"
+ },
+ {
+  "TradeId": 10389,
+  "Uid": 10007,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-10 15:39:36"
+ },
+ {
+  "TradeId": 10390,
+  "Uid": 10007,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-19 05:26:10"
+ },
+ {
+  "TradeId": 10391,
+  "Uid": 10007,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-13 21:01:37"
+ },
+ {
+  "TradeId": 10392,
+  "Uid": 10007,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-01 01:56:42"
+ },
+ {
+  "TradeId": 10393,
+  "Uid": 10007,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-02 05:10:36"
+ },
+ {
+  "TradeId": 10394,
+  "Uid": 10007,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-01 13:20:11"
+ },
+ {
+  "TradeId": 10395,
+  "Uid": 10007,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-18 21:01:57"
+ },
+ {
+  "TradeId": 10396,
+  "Uid": 10007,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-26 05:45:19"
+ },
+ {
+  "TradeId": 10397,
+  "Uid": 10007,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-09-29 17:11:33"
+ },
+ {
+  "TradeId": 10398,
+  "Uid": 10007,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-02 13:16:31"
+ },
+ {
+  "TradeId": 10399,
+  "Uid": 10007,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-10 23:22:17"
+ },
+ {
+  "TradeId": 10400,
+  "Uid": 10008,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-23 00:39:07"
+ },
+ {
+  "TradeId": 10401,
+  "Uid": 10008,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-17 01:12:17"
+ },
+ {
+  "TradeId": 10402,
+  "Uid": 10008,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-08 19:37:29"
+ },
+ {
+  "TradeId": 10403,
+  "Uid": 10008,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-15 11:53:13"
+ },
+ {
+  "TradeId": 10404,
+  "Uid": 10008,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-19 06:30:08"
+ },
+ {
+  "TradeId": 10405,
+  "Uid": 10008,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-09 16:38:07"
+ },
+ {
+  "TradeId": 10406,
+  "Uid": 10008,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-22 02:42:34"
+ },
+ {
+  "TradeId": 10407,
+  "Uid": 10008,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-06 10:20:45"
+ },
+ {
+  "TradeId": 10408,
+  "Uid": 10008,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-15 18:03:33"
+ },
+ {
+  "TradeId": 10409,
+  "Uid": 10008,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-18 05:29:47"
+ },
+ {
+  "TradeId": 10410,
+  "Uid": 10008,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-26 14:29:21"
+ },
+ {
+  "TradeId": 10411,
+  "Uid": 10008,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-13 19:20:53"
+ },
+ {
+  "TradeId": 10412,
+  "Uid": 10008,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-11 04:51:06"
+ },
+ {
+  "TradeId": 10413,
+  "Uid": 10008,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-14 02:34:29"
+ },
+ {
+  "TradeId": 10414,
+  "Uid": 10008,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-20 20:07:42"
+ },
+ {
+  "TradeId": 10415,
+  "Uid": 10008,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-13 07:51:44"
+ },
+ {
+  "TradeId": 10416,
+  "Uid": 10008,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-25 16:56:12"
+ },
+ {
+  "TradeId": 10417,
+  "Uid": 10008,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-01 07:28:47"
+ },
+ {
+  "TradeId": 10418,
+  "Uid": 10008,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-06 23:20:08"
+ },
+ {
+  "TradeId": 10419,
+  "Uid": 10008,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-15 07:32:34"
+ },
+ {
+  "TradeId": 10420,
+  "Uid": 10008,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-01 22:19:54"
+ },
+ {
+  "TradeId": 10421,
+  "Uid": 10008,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-18 15:44:06"
+ },
+ {
+  "TradeId": 10422,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-21 06:50:22"
+ },
+ {
+  "TradeId": 10423,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-09-21 12:14:09"
+ },
+ {
+  "TradeId": 10424,
+  "Uid": 10009,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-10 14:29:33"
+ },
+ {
+  "TradeId": 10425,
+  "Uid": 10009,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-13 07:12:07"
+ },
+ {
+  "TradeId": 10426,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-29 20:03:30"
+ },
+ {
+  "TradeId": 10427,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-03 03:15:14"
+ },
+ {
+  "TradeId": 10428,
+  "Uid": 10009,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-15 00:20:06"
+ },
+ {
+  "TradeId": 10429,
+  "Uid": 10009,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-16 18:35:10"
+ },
+ {
+  "TradeId": 10430,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-27 12:38:56"
+ },
+ {
+  "TradeId": 10431,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-14 07:18:15"
+ },
+ {
+  "TradeId": 10432,
+  "Uid": 10009,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-07 02:51:03"
+ },
+ {
+  "TradeId": 10433,
+  "Uid": 10009,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-09 00:05:43"
+ },
+ {
+  "TradeId": 10434,
+  "Uid": 10009,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-27 17:00:22"
+ },
+ {
+  "TradeId": 10435,
+  "Uid": 10009,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-09 03:55:23"
+ },
+ {
+  "TradeId": 10436,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-14 01:52:35"
+ },
+ {
+  "TradeId": 10437,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-14 20:01:25"
+ },
+ {
+  "TradeId": 10438,
+  "Uid": 10009,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-24 14:57:22"
+ },
+ {
+  "TradeId": 10439,
+  "Uid": 10009,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-28 08:36:14"
+ },
+ {
+  "TradeId": 10440,
+  "Uid": 10009,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-21 03:34:09"
+ },
+ {
+  "TradeId": 10441,
+  "Uid": 10009,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-09-28 21:49:52"
+ },
+ {
+  "TradeId": 10442,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-04 13:09:50"
+ },
+ {
+  "TradeId": 10443,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-07 03:50:00"
+ },
+ {
+  "TradeId": 10444,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-02 14:29:19"
+ },
+ {
+  "TradeId": 10445,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-03 13:49:39"
+ },
+ {
+  "TradeId": 10446,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-28 04:40:16"
+ },
+ {
+  "TradeId": 10447,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-30 00:16:05"
+ },
+ {
+  "TradeId": 10448,
+  "Uid": 10009,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-25 12:32:58"
+ },
+ {
+  "TradeId": 10449,
+  "Uid": 10009,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-10 17:35:32"
+ },
+ {
+  "TradeId": 10450,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-04 16:48:07"
+ },
+ {
+  "TradeId": 10451,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-06 10:37:26"
+ },
+ {
+  "TradeId": 10452,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-26 10:24:09"
+ },
+ {
+  "TradeId": 10453,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-05 12:44:16"
+ },
+ {
+  "TradeId": 10454,
+  "Uid": 10009,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-07 16:30:42"
+ },
+ {
+  "TradeId": 10455,
+  "Uid": 10009,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-13 21:12:48"
+ },
+ {
+  "TradeId": 10456,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-27 03:07:08"
+ },
+ {
+  "TradeId": 10457,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-09 18:16:20"
+ },
+ {
+  "TradeId": 10458,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-11 10:37:08"
+ },
+ {
+  "TradeId": 10459,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-18 18:13:15"
+ },
+ {
+  "TradeId": 10460,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-24 12:44:06"
+ },
+ {
+  "TradeId": 10461,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-16 14:53:42"
+ },
+ {
+  "TradeId": 10462,
+  "Uid": 10009,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-07 20:03:04"
+ },
+ {
+  "TradeId": 10463,
+  "Uid": 10009,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-12 19:14:15"
+ },
+ {
+  "TradeId": 10464,
+  "Uid": 10009,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-07 02:51:03"
+ },
+ {
+  "TradeId": 10465,
+  "Uid": 10009,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-09 20:05:34"
+ },
+ {
+  "TradeId": 10466,
+  "Uid": 10009,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-01 05:20:40"
+ },
+ {
+  "TradeId": 10467,
+  "Uid": 10009,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-05 16:00:04"
+ },
+ {
+  "TradeId": 10468,
+  "Uid": 10009,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-04 02:19:26"
+ },
+ {
+  "TradeId": 10469,
+  "Uid": 10009,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-18 09:15:30"
+ },
+ {
+  "TradeId": 10470,
+  "Uid": 10009,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-18 20:02:50"
+ },
+ {
+  "TradeId": 10471,
+  "Uid": 10009,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-02 13:58:52"
+ },
+ {
+  "TradeId": 10472,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-30 02:17:21"
+ },
+ {
+  "TradeId": 10473,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-08 04:14:37"
+ },
+ {
+  "TradeId": 10474,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-03 07:41:33"
+ },
+ {
+  "TradeId": 10475,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-05 19:02:02"
+ },
+ {
+  "TradeId": 10476,
+  "Uid": 10009,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-23 15:22:11"
+ },
+ {
+  "TradeId": 10477,
+  "Uid": 10009,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-10 22:58:53"
+ },
+ {
+  "TradeId": 10478,
+  "Uid": 10009,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-22 11:47:43"
+ },
+ {
+  "TradeId": 10479,
+  "Uid": 10009,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-06 10:53:04"
+ },
+ {
+  "TradeId": 10480,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-24 21:10:45"
+ },
+ {
+  "TradeId": 10481,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-09-30 08:04:33"
+ },
+ {
+  "TradeId": 10482,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-21 17:16:17"
+ },
+ {
+  "TradeId": 10483,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-14 00:32:11"
+ },
+ {
+  "TradeId": 10484,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-03 09:17:43"
+ },
+ {
+  "TradeId": 10485,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-12 09:29:07"
+ },
+ {
+  "TradeId": 10486,
+  "Uid": 10009,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-11 23:52:54"
+ },
+ {
+  "TradeId": 10487,
+  "Uid": 10009,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-15 22:56:40"
+ },
+ {
+  "TradeId": 10488,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-18 13:07:43"
+ },
+ {
+  "TradeId": 10489,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-25 22:33:16"
+ },
+ {
+  "TradeId": 10490,
+  "Uid": 10009,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-20 10:32:05"
+ },
+ {
+  "TradeId": 10491,
+  "Uid": 10009,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-28 04:56:54"
+ },
+ {
+  "TradeId": 10492,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-04 11:54:51"
+ },
+ {
+  "TradeId": 10493,
+  "Uid": 10009,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-15 15:33:34"
+ },
+ {
+  "TradeId": 10494,
+  "Uid": 10009,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-27 02:06:04"
+ },
+ {
+  "TradeId": 10495,
+  "Uid": 10009,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-06 11:20:49"
+ },
+ {
+  "TradeId": 10496,
+  "Uid": 10009,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-05 21:47:52"
+ },
+ {
+  "TradeId": 10497,
+  "Uid": 10009,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-16 23:29:07"
+ },
+ {
+  "TradeId": 10498,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-30 17:15:33"
+ },
+ {
+  "TradeId": 10499,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-13 16:21:12"
+ },
+ {
+  "TradeId": 10500,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-04 15:27:37"
+ },
+ {
+  "TradeId": 10501,
+  "Uid": 10009,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-07 08:21:39"
+ },
+ {
+  "TradeId": 10502,
+  "Uid": 10010,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-21 04:18:50"
+ },
+ {
+  "TradeId": 10503,
+  "Uid": 10010,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-05 11:58:53"
+ },
+ {
+  "TradeId": 10504,
+  "Uid": 10010,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-26 10:07:56"
+ },
+ {
+  "TradeId": 10505,
+  "Uid": 10010,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-16 04:59:18"
+ },
+ {
+  "TradeId": 10506,
+  "Uid": 10010,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-21 16:57:47"
+ },
+ {
+  "TradeId": 10507,
+  "Uid": 10010,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-01 15:19:27"
+ },
+ {
+  "TradeId": 10508,
+  "Uid": 10010,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-25 02:24:04"
+ },
+ {
+  "TradeId": 10509,
+  "Uid": 10010,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-01 07:29:51"
+ },
+ {
+  "TradeId": 10510,
+  "Uid": 10010,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-28 09:18:37"
+ },
+ {
+  "TradeId": 10511,
+  "Uid": 10010,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-29 19:07:54"
+ },
+ {
+  "TradeId": 10512,
+  "Uid": 10010,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-19 20:34:04"
+ },
+ {
+  "TradeId": 10513,
+  "Uid": 10010,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-09-30 00:23:34"
+ },
+ {
+  "TradeId": 10514,
+  "Uid": 10010,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-03 00:38:38"
+ },
+ {
+  "TradeId": 10515,
+  "Uid": 10010,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-09 06:58:17"
+ },
+ {
+  "TradeId": 10516,
+  "Uid": 10010,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-25 16:42:18"
+ },
+ {
+  "TradeId": 10517,
+  "Uid": 10010,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-28 10:00:14"
+ },
+ {
+  "TradeId": 10518,
+  "Uid": 10010,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-27 04:22:33"
+ },
+ {
+  "TradeId": 10519,
+  "Uid": 10010,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-18 08:23:12"
+ },
+ {
+  "TradeId": 10520,
+  "Uid": 10010,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-28 05:20:59"
+ },
+ {
+  "TradeId": 10521,
+  "Uid": 10010,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-29 02:35:08"
+ },
+ {
+  "TradeId": 10522,
+  "Uid": 10010,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-28 03:51:16"
+ },
+ {
+  "TradeId": 10523,
+  "Uid": 10010,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-07 00:42:22"
+ },
+ {
+  "TradeId": 10524,
+  "Uid": 10010,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-22 11:02:46"
+ },
+ {
+  "TradeId": 10525,
+  "Uid": 10010,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-23 04:36:41"
+ },
+ {
+  "TradeId": 10526,
+  "Uid": 10010,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-22 14:12:37"
+ },
+ {
+  "TradeId": 10527,
+  "Uid": 10010,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-25 04:35:14"
+ },
+ {
+  "TradeId": 10528,
+  "Uid": 10010,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-24 19:33:50"
+ },
+ {
+  "TradeId": 10529,
+  "Uid": 10010,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-14 14:21:14"
+ },
+ {
+  "TradeId": 10530,
+  "Uid": 10011,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-19 17:53:05"
+ },
+ {
+  "TradeId": 10531,
+  "Uid": 10011,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-09-20 22:29:57"
+ },
+ {
+  "TradeId": 10532,
+  "Uid": 10011,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-03 06:56:36"
+ },
+ {
+  "TradeId": 10533,
+  "Uid": 10011,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-07 15:00:58"
+ },
+ {
+  "TradeId": 10534,
+  "Uid": 10011,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-21 06:36:34"
+ },
+ {
+  "TradeId": 10535,
+  "Uid": 10011,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-13 05:55:59"
+ },
+ {
+  "TradeId": 10536,
+  "Uid": 10011,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-20 06:25:43"
+ },
+ {
+  "TradeId": 10537,
+  "Uid": 10011,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-14 21:11:14"
+ },
+ {
+  "TradeId": 10538,
+  "Uid": 10011,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-26 03:14:36"
+ },
+ {
+  "TradeId": 10539,
+  "Uid": 10011,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-14 00:50:56"
+ },
+ {
+  "TradeId": 10540,
+  "Uid": 10011,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-23 11:07:29"
+ },
+ {
+  "TradeId": 10541,
+  "Uid": 10011,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-16 16:26:29"
+ },
+ {
+  "TradeId": 10542,
+  "Uid": 10011,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-20 06:26:06"
+ },
+ {
+  "TradeId": 10543,
+  "Uid": 10011,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-16 09:00:15"
+ },
+ {
+  "TradeId": 10544,
+  "Uid": 10011,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-03 20:35:19"
+ },
+ {
+  "TradeId": 10545,
+  "Uid": 10011,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-12 23:27:40"
+ },
+ {
+  "TradeId": 10546,
+  "Uid": 10011,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-02 00:36:30"
+ },
+ {
+  "TradeId": 10547,
+  "Uid": 10011,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-06 16:21:15"
+ },
+ {
+  "TradeId": 10548,
+  "Uid": 10011,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-20 00:43:13"
+ },
+ {
+  "TradeId": 10549,
+  "Uid": 10011,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-18 05:44:33"
+ },
+ {
+  "TradeId": 10550,
+  "Uid": 10011,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-30 21:19:35"
+ },
+ {
+  "TradeId": 10551,
+  "Uid": 10011,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-14 17:13:44"
+ },
+ {
+  "TradeId": 10552,
+  "Uid": 10011,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-26 19:45:05"
+ },
+ {
+  "TradeId": 10553,
+  "Uid": 10011,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-04 03:10:12"
+ },
+ {
+  "TradeId": 10554,
+  "Uid": 10011,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-17 13:23:03"
+ },
+ {
+  "TradeId": 10555,
+  "Uid": 10011,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-17 15:32:56"
+ },
+ {
+  "TradeId": 10556,
+  "Uid": 10011,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-25 09:40:22"
+ },
+ {
+  "TradeId": 10557,
+  "Uid": 10011,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-08 21:30:11"
+ },
+ {
+  "TradeId": 10558,
+  "Uid": 10011,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-28 04:04:25"
+ },
+ {
+  "TradeId": 10559,
+  "Uid": 10011,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-10 08:11:44"
+ },
+ {
+  "TradeId": 10560,
+  "Uid": 10011,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-10 04:47:59"
+ },
+ {
+  "TradeId": 10561,
+  "Uid": 10011,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-18 08:06:04"
+ },
+ {
+  "TradeId": 10562,
+  "Uid": 10011,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-21 07:19:42"
+ },
+ {
+  "TradeId": 10563,
+  "Uid": 10011,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-16 19:19:33"
+ },
+ {
+  "TradeId": 10564,
+  "Uid": 10011,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-29 17:38:37"
+ },
+ {
+  "TradeId": 10565,
+  "Uid": 10011,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-05 12:34:27"
+ },
+ {
+  "TradeId": 10566,
+  "Uid": 10011,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-24 13:31:59"
+ },
+ {
+  "TradeId": 10567,
+  "Uid": 10011,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-05 13:38:12"
+ },
+ {
+  "TradeId": 10568,
+  "Uid": 10011,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-28 11:45:59"
+ },
+ {
+  "TradeId": 10569,
+  "Uid": 10011,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-13 01:49:16"
+ },
+ {
+  "TradeId": 10570,
+  "Uid": 10011,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-19 05:31:22"
+ },
+ {
+  "TradeId": 10571,
+  "Uid": 10011,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-28 18:08:48"
+ },
+ {
+  "TradeId": 10572,
+  "Uid": 10011,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-20 08:43:12"
+ },
+ {
+  "TradeId": 10573,
+  "Uid": 10011,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-07 18:50:03"
+ },
+ {
+  "TradeId": 10574,
+  "Uid": 10011,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-03 10:25:29"
+ },
+ {
+  "TradeId": 10575,
+  "Uid": 10011,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-10 11:12:19"
+ },
+ {
+  "TradeId": 10576,
+  "Uid": 10011,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-22 05:09:03"
+ },
+ {
+  "TradeId": 10577,
+  "Uid": 10011,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-11 17:57:50"
+ },
+ {
+  "TradeId": 10578,
+  "Uid": 10012,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-27 14:56:35"
+ },
+ {
+  "TradeId": 10579,
+  "Uid": 10012,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-02 12:39:05"
+ },
+ {
+  "TradeId": 10580,
+  "Uid": 10012,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-25 13:52:52"
+ },
+ {
+  "TradeId": 10581,
+  "Uid": 10012,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-16 20:51:24"
+ },
+ {
+  "TradeId": 10582,
+  "Uid": 10012,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-07 02:20:25"
+ },
+ {
+  "TradeId": 10583,
+  "Uid": 10012,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-16 20:02:52"
+ },
+ {
+  "TradeId": 10584,
+  "Uid": 10012,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-23 06:43:05"
+ },
+ {
+  "TradeId": 10585,
+  "Uid": 10012,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-15 03:00:58"
+ },
+ {
+  "TradeId": 10586,
+  "Uid": 10012,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-01 00:18:31"
+ },
+ {
+  "TradeId": 10587,
+  "Uid": 10012,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-15 16:31:27"
+ },
+ {
+  "TradeId": 10588,
+  "Uid": 10012,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-19 11:42:32"
+ },
+ {
+  "TradeId": 10589,
+  "Uid": 10012,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-12 08:10:35"
+ },
+ {
+  "TradeId": 10590,
+  "Uid": 10012,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-11 00:54:34"
+ },
+ {
+  "TradeId": 10591,
+  "Uid": 10012,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-11 23:06:06"
+ },
+ {
+  "TradeId": 10592,
+  "Uid": 10012,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-12 00:50:52"
+ },
+ {
+  "TradeId": 10593,
+  "Uid": 10012,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-13 15:29:25"
+ },
+ {
+  "TradeId": 10594,
+  "Uid": 10012,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-28 21:36:07"
+ },
+ {
+  "TradeId": 10595,
+  "Uid": 10012,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-12 20:38:02"
+ },
+ {
+  "TradeId": 10596,
+  "Uid": 10012,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-22 02:25:44"
+ },
+ {
+  "TradeId": 10597,
+  "Uid": 10012,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-18 10:58:44"
+ },
+ {
+  "TradeId": 10598,
+  "Uid": 10012,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-26 10:15:11"
+ },
+ {
+  "TradeId": 10599,
+  "Uid": 10012,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-17 16:03:25"
+ },
+ {
+  "TradeId": 10600,
+  "Uid": 10012,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-04 02:15:03"
+ },
+ {
+  "TradeId": 10601,
+  "Uid": 10012,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-07 18:32:29"
+ },
+ {
+  "TradeId": 10602,
+  "Uid": 10012,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-21 09:35:25"
+ },
+ {
+  "TradeId": 10603,
+  "Uid": 10012,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-12 13:40:54"
+ },
+ {
+  "TradeId": 10604,
+  "Uid": 10012,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-26 21:12:21"
+ },
+ {
+  "TradeId": 10605,
+  "Uid": 10012,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-11 12:15:53"
+ },
+ {
+  "TradeId": 10606,
+  "Uid": 10012,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-28 06:46:01"
+ },
+ {
+  "TradeId": 10607,
+  "Uid": 10012,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-05 04:59:58"
+ },
+ {
+  "TradeId": 10608,
+  "Uid": 10012,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-22 21:18:55"
+ },
+ {
+  "TradeId": 10609,
+  "Uid": 10012,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-08 09:07:57"
+ },
+ {
+  "TradeId": 10610,
+  "Uid": 10012,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-21 23:56:39"
+ },
+ {
+  "TradeId": 10611,
+  "Uid": 10012,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-17 08:50:12"
+ },
+ {
+  "TradeId": 10612,
+  "Uid": 10012,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-21 20:04:03"
+ },
+ {
+  "TradeId": 10613,
+  "Uid": 10012,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-13 01:16:23"
+ },
+ {
+  "TradeId": 10614,
+  "Uid": 10012,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-25 12:20:45"
+ },
+ {
+  "TradeId": 10615,
+  "Uid": 10012,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-13 03:40:08"
+ },
+ {
+  "TradeId": 10616,
+  "Uid": 10012,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-26 03:53:37"
+ },
+ {
+  "TradeId": 10617,
+  "Uid": 10012,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-11 02:13:06"
+ },
+ {
+  "TradeId": 10618,
+  "Uid": 10013,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-23 05:14:34"
+ },
+ {
+  "TradeId": 10619,
+  "Uid": 10013,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-10 06:19:46"
+ },
+ {
+  "TradeId": 10620,
+  "Uid": 10013,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-07 14:07:26"
+ },
+ {
+  "TradeId": 10621,
+  "Uid": 10013,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-15 22:12:47"
+ },
+ {
+  "TradeId": 10622,
+  "Uid": 10013,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-19 08:54:47"
+ },
+ {
+  "TradeId": 10623,
+  "Uid": 10013,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-05 13:41:56"
+ },
+ {
+  "TradeId": 10624,
+  "Uid": 10013,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-27 12:11:00"
+ },
+ {
+  "TradeId": 10625,
+  "Uid": 10013,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-06 01:06:07"
+ },
+ {
+  "TradeId": 10626,
+  "Uid": 10013,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-02 11:45:59"
+ },
+ {
+  "TradeId": 10627,
+  "Uid": 10013,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-08 01:49:32"
+ },
+ {
+  "TradeId": 10628,
+  "Uid": 10013,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-22 15:23:35"
+ },
+ {
+  "TradeId": 10629,
+  "Uid": 10013,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-02 14:24:02"
+ },
+ {
+  "TradeId": 10630,
+  "Uid": 10013,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-25 20:19:54"
+ },
+ {
+  "TradeId": 10631,
+  "Uid": 10013,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-01 13:38:29"
+ },
+ {
+  "TradeId": 10632,
+  "Uid": 10013,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-20 07:43:01"
+ },
+ {
+  "TradeId": 10633,
+  "Uid": 10013,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-30 04:15:04"
+ },
+ {
+  "TradeId": 10634,
+  "Uid": 10013,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-21 18:34:29"
+ },
+ {
+  "TradeId": 10635,
+  "Uid": 10013,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-16 06:31:25"
+ },
+ {
+  "TradeId": 10636,
+  "Uid": 10014,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-25 07:08:59"
+ },
+ {
+  "TradeId": 10637,
+  "Uid": 10014,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-04 21:39:38"
+ },
+ {
+  "TradeId": 10638,
+  "Uid": 10014,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-19 10:06:46"
+ },
+ {
+  "TradeId": 10639,
+  "Uid": 10014,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-03 12:33:33"
+ },
+ {
+  "TradeId": 10640,
+  "Uid": 10014,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-21 15:12:28"
+ },
+ {
+  "TradeId": 10641,
+  "Uid": 10014,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-30 08:59:28"
+ },
+ {
+  "TradeId": 10642,
+  "Uid": 10014,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-01 02:56:10"
+ },
+ {
+  "TradeId": 10643,
+  "Uid": 10014,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-17 03:41:07"
+ },
+ {
+  "TradeId": 10644,
+  "Uid": 10014,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-26 19:09:55"
+ },
+ {
+  "TradeId": 10645,
+  "Uid": 10014,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-05 23:32:18"
+ },
+ {
+  "TradeId": 10646,
+  "Uid": 10014,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-06 21:58:39"
+ },
+ {
+  "TradeId": 10647,
+  "Uid": 10014,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-16 23:41:38"
+ },
+ {
+  "TradeId": 10648,
+  "Uid": 10014,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-29 22:02:25"
+ },
+ {
+  "TradeId": 10649,
+  "Uid": 10014,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-06 22:24:31"
+ },
+ {
+  "TradeId": 10650,
+  "Uid": 10014,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-01 20:54:16"
+ },
+ {
+  "TradeId": 10651,
+  "Uid": 10014,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-09 20:27:46"
+ },
+ {
+  "TradeId": 10652,
+  "Uid": 10014,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-01 19:15:29"
+ },
+ {
+  "TradeId": 10653,
+  "Uid": 10014,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-05 03:58:39"
+ },
+ {
+  "TradeId": 10654,
+  "Uid": 10014,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-22 20:42:18"
+ },
+ {
+  "TradeId": 10655,
+  "Uid": 10014,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-09 01:24:02"
+ },
+ {
+  "TradeId": 10656,
+  "Uid": 10014,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-19 15:32:11"
+ },
+ {
+  "TradeId": 10657,
+  "Uid": 10014,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-09 12:18:21"
+ },
+ {
+  "TradeId": 10658,
+  "Uid": 10014,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-27 22:23:09"
+ },
+ {
+  "TradeId": 10659,
+  "Uid": 10014,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-30 10:17:36"
+ },
+ {
+  "TradeId": 10660,
+  "Uid": 10014,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-23 10:17:26"
+ },
+ {
+  "TradeId": 10661,
+  "Uid": 10014,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-10 15:26:30"
+ },
+ {
+  "TradeId": 10662,
+  "Uid": 10014,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-19 15:42:16"
+ },
+ {
+  "TradeId": 10663,
+  "Uid": 10014,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-13 23:43:00"
+ },
+ {
+  "TradeId": 10664,
+  "Uid": 10014,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-20 02:20:23"
+ },
+ {
+  "TradeId": 10665,
+  "Uid": 10014,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-23 11:59:18"
+ },
+ {
+  "TradeId": 10666,
+  "Uid": 10014,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-18 18:26:38"
+ },
+ {
+  "TradeId": 10667,
+  "Uid": 10014,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-06 05:48:34"
+ },
+ {
+  "TradeId": 10668,
+  "Uid": 10014,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-07 08:53:42"
+ },
+ {
+  "TradeId": 10669,
+  "Uid": 10014,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-13 12:35:13"
+ },
+ {
+  "TradeId": 10670,
+  "Uid": 10014,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-18 17:46:25"
+ },
+ {
+  "TradeId": 10671,
+  "Uid": 10014,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-01 12:24:01"
+ },
+ {
+  "TradeId": 10672,
+  "Uid": 10014,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-06 10:17:41"
+ },
+ {
+  "TradeId": 10673,
+  "Uid": 10014,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-18 09:20:02"
+ },
+ {
+  "TradeId": 10674,
+  "Uid": 10014,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-15 07:59:58"
+ },
+ {
+  "TradeId": 10675,
+  "Uid": 10014,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-18 02:24:22"
+ },
+ {
+  "TradeId": 10676,
+  "Uid": 10014,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-11 23:33:45"
+ },
+ {
+  "TradeId": 10677,
+  "Uid": 10014,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-12 12:37:51"
+ },
+ {
+  "TradeId": 10678,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-25 12:35:29"
+ },
+ {
+  "TradeId": 10679,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-14 11:28:16"
+ },
+ {
+  "TradeId": 10680,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-07 03:35:13"
+ },
+ {
+  "TradeId": 10681,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-09 15:47:21"
+ },
+ {
+  "TradeId": 10682,
+  "Uid": 10015,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-18 17:15:14"
+ },
+ {
+  "TradeId": 10683,
+  "Uid": 10015,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-02 21:48:34"
+ },
+ {
+  "TradeId": 10684,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-09 11:51:19"
+ },
+ {
+  "TradeId": 10685,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-13 08:22:58"
+ },
+ {
+  "TradeId": 10686,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-28 18:05:38"
+ },
+ {
+  "TradeId": 10687,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-06 23:10:21"
+ },
+ {
+  "TradeId": 10688,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-21 06:08:39"
+ },
+ {
+  "TradeId": 10689,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-09-23 21:20:18"
+ },
+ {
+  "TradeId": 10690,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-01 13:49:34"
+ },
+ {
+  "TradeId": 10691,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-04 09:29:02"
+ },
+ {
+  "TradeId": 10692,
+  "Uid": 10015,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-21 18:23:58"
+ },
+ {
+  "TradeId": 10693,
+  "Uid": 10015,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-05 01:00:19"
+ },
+ {
+  "TradeId": 10694,
+  "Uid": 10015,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-22 00:52:12"
+ },
+ {
+  "TradeId": 10695,
+  "Uid": 10015,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-09 10:28:56"
+ },
+ {
+  "TradeId": 10696,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-22 00:05:05"
+ },
+ {
+  "TradeId": 10697,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-09-26 12:38:37"
+ },
+ {
+  "TradeId": 10698,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-19 04:53:53"
+ },
+ {
+  "TradeId": 10699,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-09-26 06:28:57"
+ },
+ {
+  "TradeId": 10700,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-10 11:14:27"
+ },
+ {
+  "TradeId": 10701,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-17 01:40:59"
+ },
+ {
+  "TradeId": 10702,
+  "Uid": 10015,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-30 15:23:11"
+ },
+ {
+  "TradeId": 10703,
+  "Uid": 10015,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-09 13:57:49"
+ },
+ {
+  "TradeId": 10704,
+  "Uid": 10015,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-16 10:56:15"
+ },
+ {
+  "TradeId": 10705,
+  "Uid": 10015,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-18 21:22:17"
+ },
+ {
+  "TradeId": 10706,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-26 14:37:51"
+ },
+ {
+  "TradeId": 10707,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-07 22:39:48"
+ },
+ {
+  "TradeId": 10708,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-26 12:41:19"
+ },
+ {
+  "TradeId": 10709,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-16 19:14:20"
+ },
+ {
+  "TradeId": 10710,
+  "Uid": 10015,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-11 13:44:21"
+ },
+ {
+  "TradeId": 10711,
+  "Uid": 10015,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-16 19:32:17"
+ },
+ {
+  "TradeId": 10712,
+  "Uid": 10015,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-28 04:14:59"
+ },
+ {
+  "TradeId": 10713,
+  "Uid": 10015,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-30 03:29:30"
+ },
+ {
+  "TradeId": 10714,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-30 11:31:34"
+ },
+ {
+  "TradeId": 10715,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-01 04:43:50"
+ },
+ {
+  "TradeId": 10716,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-12 16:09:59"
+ },
+ {
+  "TradeId": 10717,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-15 21:27:52"
+ },
+ {
+  "TradeId": 10718,
+  "Uid": 10015,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-10 01:23:33"
+ },
+ {
+  "TradeId": 10719,
+  "Uid": 10015,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-16 17:37:13"
+ },
+ {
+  "TradeId": 10720,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-01 08:51:34"
+ },
+ {
+  "TradeId": 10721,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-11 21:54:21"
+ },
+ {
+  "TradeId": 10722,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-18 15:59:56"
+ },
+ {
+  "TradeId": 10723,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-02 10:10:30"
+ },
+ {
+  "TradeId": 10724,
+  "Uid": 10015,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-18 17:40:38"
+ },
+ {
+  "TradeId": 10725,
+  "Uid": 10015,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-07 10:06:46"
+ },
+ {
+  "TradeId": 10726,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-07 09:50:00"
+ },
+ {
+  "TradeId": 10727,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-09 00:17:26"
+ },
+ {
+  "TradeId": 10728,
+  "Uid": 10015,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-25 09:33:25"
+ },
+ {
+  "TradeId": 10729,
+  "Uid": 10015,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-14 06:27:45"
+ },
+ {
+  "TradeId": 10730,
+  "Uid": 10015,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-05 09:22:15"
+ },
+ {
+  "TradeId": 10731,
+  "Uid": 10015,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-06 22:53:02"
+ },
+ {
+  "TradeId": 10732,
+  "Uid": 10015,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-14 02:39:09"
+ },
+ {
+  "TradeId": 10733,
+  "Uid": 10015,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-14 23:14:59"
+ },
+ {
+  "TradeId": 10734,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-21 16:01:24"
+ },
+ {
+  "TradeId": 10735,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-08 02:58:12"
+ },
+ {
+  "TradeId": 10736,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-21 14:56:28"
+ },
+ {
+  "TradeId": 10737,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-12 07:41:37"
+ },
+ {
+  "TradeId": 10738,
+  "Uid": 10015,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-30 07:24:13"
+ },
+ {
+  "TradeId": 10739,
+  "Uid": 10015,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-05 06:19:50"
+ },
+ {
+  "TradeId": 10740,
+  "Uid": 10015,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-19 08:58:25"
+ },
+ {
+  "TradeId": 10741,
+  "Uid": 10015,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-26 21:36:50"
+ },
+ {
+  "TradeId": 10742,
+  "Uid": 10015,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-26 12:17:26"
+ },
+ {
+  "TradeId": 10743,
+  "Uid": 10015,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-10 12:09:41"
+ },
+ {
+  "TradeId": 10744,
+  "Uid": 10015,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-24 16:44:14"
+ },
+ {
+  "TradeId": 10745,
+  "Uid": 10015,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-25 17:00:43"
+ },
+ {
+  "TradeId": 10746,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-26 16:43:28"
+ },
+ {
+  "TradeId": 10747,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-09-29 20:15:41"
+ },
+ {
+  "TradeId": 10748,
+  "Uid": 10015,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-18 14:44:40"
+ },
+ {
+  "TradeId": 10749,
+  "Uid": 10015,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-30 22:53:54"
+ },
+ {
+  "TradeId": 10750,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-26 13:40:27"
+ },
+ {
+  "TradeId": 10751,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-01 19:00:39"
+ },
+ {
+  "TradeId": 10752,
+  "Uid": 10015,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-23 22:36:33"
+ },
+ {
+  "TradeId": 10753,
+  "Uid": 10015,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-09 13:58:03"
+ },
+ {
+  "TradeId": 10754,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-27 10:50:17"
+ },
+ {
+  "TradeId": 10755,
+  "Uid": 10015,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-13 10:46:52"
+ },
+ {
+  "TradeId": 10756,
+  "Uid": 10015,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-28 01:07:02"
+ },
+ {
+  "TradeId": 10757,
+  "Uid": 10015,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-13 15:42:49"
+ },
+ {
+  "TradeId": 10758,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-06 23:14:51"
+ },
+ {
+  "TradeId": 10759,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-08 01:36:29"
+ },
+ {
+  "TradeId": 10760,
+  "Uid": 10015,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-25 17:55:56"
+ },
+ {
+  "TradeId": 10761,
+  "Uid": 10015,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-13 02:16:29"
+ },
+ {
+  "TradeId": 10762,
+  "Uid": 10015,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-05 04:07:32"
+ },
+ {
+  "TradeId": 10763,
+  "Uid": 10015,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-12 17:07:11"
+ },
+ {
+  "TradeId": 10764,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-05 20:08:29"
+ },
+ {
+  "TradeId": 10765,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-06 09:00:20"
+ },
+ {
+  "TradeId": 10766,
+  "Uid": 10015,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-24 20:56:18"
+ },
+ {
+  "TradeId": 10767,
+  "Uid": 10015,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-09 00:34:32"
+ },
+ {
+  "TradeId": 10768,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-20 12:48:02"
+ },
+ {
+  "TradeId": 10769,
+  "Uid": 10015,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-17 07:41:40"
+ },
+ {
+  "TradeId": 10770,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-30 21:49:16"
+ },
+ {
+  "TradeId": 10771,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-02 12:58:13"
+ },
+ {
+  "TradeId": 10772,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-09 04:02:39"
+ },
+ {
+  "TradeId": 10773,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-11 08:57:06"
+ },
+ {
+  "TradeId": 10774,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-07 13:19:52"
+ },
+ {
+  "TradeId": 10775,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-16 09:50:51"
+ },
+ {
+  "TradeId": 10776,
+  "Uid": 10016,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-30 13:56:10"
+ },
+ {
+  "TradeId": 10777,
+  "Uid": 10016,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-14 01:44:37"
+ },
+ {
+  "TradeId": 10778,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-10 22:06:09"
+ },
+ {
+  "TradeId": 10779,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-15 17:00:35"
+ },
+ {
+  "TradeId": 10780,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-03 01:06:15"
+ },
+ {
+  "TradeId": 10781,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-09 08:47:59"
+ },
+ {
+  "TradeId": 10782,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-12 08:30:59"
+ },
+ {
+  "TradeId": 10783,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-15 19:08:02"
+ },
+ {
+  "TradeId": 10784,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-22 15:19:20"
+ },
+ {
+  "TradeId": 10785,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-08 05:34:57"
+ },
+ {
+  "TradeId": 10786,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-28 21:11:26"
+ },
+ {
+  "TradeId": 10787,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-17 13:24:15"
+ },
+ {
+  "TradeId": 10788,
+  "Uid": 10016,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-21 17:42:43"
+ },
+ {
+  "TradeId": 10789,
+  "Uid": 10016,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-04 01:52:56"
+ },
+ {
+  "TradeId": 10790,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-15 12:00:38"
+ },
+ {
+  "TradeId": 10791,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-17 02:28:49"
+ },
+ {
+  "TradeId": 10792,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-20 17:47:47"
+ },
+ {
+  "TradeId": 10793,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-13 22:10:44"
+ },
+ {
+  "TradeId": 10794,
+  "Uid": 10016,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-03 05:13:56"
+ },
+ {
+  "TradeId": 10795,
+  "Uid": 10016,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-06 21:27:59"
+ },
+ {
+  "TradeId": 10796,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-29 22:19:13"
+ },
+ {
+  "TradeId": 10797,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-13 23:45:46"
+ },
+ {
+  "TradeId": 10798,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-09 09:12:18"
+ },
+ {
+  "TradeId": 10799,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-18 06:43:05"
+ },
+ {
+  "TradeId": 10800,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-12 02:59:40"
+ },
+ {
+  "TradeId": 10801,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-13 16:58:32"
+ },
+ {
+  "TradeId": 10802,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-19 08:39:34"
+ },
+ {
+  "TradeId": 10803,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-26 13:15:15"
+ },
+ {
+  "TradeId": 10804,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-23 16:19:14"
+ },
+ {
+  "TradeId": 10805,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-03 19:12:36"
+ },
+ {
+  "TradeId": 10806,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-22 23:11:32"
+ },
+ {
+  "TradeId": 10807,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-14 06:36:25"
+ },
+ {
+  "TradeId": 10808,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-18 18:36:48"
+ },
+ {
+  "TradeId": 10809,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-02 22:29:29"
+ },
+ {
+  "TradeId": 10810,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-26 12:50:49"
+ },
+ {
+  "TradeId": 10811,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-15 02:50:53"
+ },
+ {
+  "TradeId": 10812,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-03 18:06:02"
+ },
+ {
+  "TradeId": 10813,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-15 22:30:37"
+ },
+ {
+  "TradeId": 10814,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-13 15:03:53"
+ },
+ {
+  "TradeId": 10815,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-16 14:39:20"
+ },
+ {
+  "TradeId": 10816,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-22 15:27:37"
+ },
+ {
+  "TradeId": 10817,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-09-28 07:20:51"
+ },
+ {
+  "TradeId": 10818,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-06 01:37:51"
+ },
+ {
+  "TradeId": 10819,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-08 18:39:14"
+ },
+ {
+  "TradeId": 10820,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-22 20:58:31"
+ },
+ {
+  "TradeId": 10821,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-10 10:42:13"
+ },
+ {
+  "TradeId": 10822,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-20 23:53:18"
+ },
+ {
+  "TradeId": 10823,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-05 15:22:36"
+ },
+ {
+  "TradeId": 10824,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-26 06:03:50"
+ },
+ {
+  "TradeId": 10825,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-05 18:22:27"
+ },
+ {
+  "TradeId": 10826,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-05 02:45:08"
+ },
+ {
+  "TradeId": 10827,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-13 16:36:53"
+ },
+ {
+  "TradeId": 10828,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-02 13:11:00"
+ },
+ {
+  "TradeId": 10829,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-15 01:20:34"
+ },
+ {
+  "TradeId": 10830,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-27 18:16:11"
+ },
+ {
+  "TradeId": 10831,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-12 03:02:36"
+ },
+ {
+  "TradeId": 10832,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-24 02:03:48"
+ },
+ {
+  "TradeId": 10833,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-09 04:04:11"
+ },
+ {
+  "TradeId": 10834,
+  "Uid": 10016,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-02 01:55:47"
+ },
+ {
+  "TradeId": 10835,
+  "Uid": 10016,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-04 18:11:51"
+ },
+ {
+  "TradeId": 10836,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-24 23:53:47"
+ },
+ {
+  "TradeId": 10837,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-15 23:46:43"
+ },
+ {
+  "TradeId": 10838,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-04 01:33:38"
+ },
+ {
+  "TradeId": 10839,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-18 17:29:51"
+ },
+ {
+  "TradeId": 10840,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-30 22:42:11"
+ },
+ {
+  "TradeId": 10841,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-07 21:59:21"
+ },
+ {
+  "TradeId": 10842,
+  "Uid": 10016,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-01 05:14:55"
+ },
+ {
+  "TradeId": 10843,
+  "Uid": 10016,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-02 05:46:07"
+ },
+ {
+  "TradeId": 10844,
+  "Uid": 10016,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-24 11:11:36"
+ },
+ {
+  "TradeId": 10845,
+  "Uid": 10016,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-26 04:47:11"
+ },
+ {
+  "TradeId": 10846,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-10 00:20:52"
+ },
+ {
+  "TradeId": 10847,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-17 13:25:42"
+ },
+ {
+  "TradeId": 10848,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-20 23:15:01"
+ },
+ {
+  "TradeId": 10849,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-22 04:53:44"
+ },
+ {
+  "TradeId": 10850,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-18 19:06:09"
+ },
+ {
+  "TradeId": 10851,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-19 01:14:34"
+ },
+ {
+  "TradeId": 10852,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-21 01:57:51"
+ },
+ {
+  "TradeId": 10853,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-10 07:44:56"
+ },
+ {
+  "TradeId": 10854,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-20 23:13:39"
+ },
+ {
+  "TradeId": 10855,
+  "Uid": 10016,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-12 21:43:48"
+ },
+ {
+  "TradeId": 10856,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-19 05:47:20"
+ },
+ {
+  "TradeId": 10857,
+  "Uid": 10016,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-09-20 05:37:10"
+ },
+ {
+  "TradeId": 10858,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-12 02:54:58"
+ },
+ {
+  "TradeId": 10859,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-17 10:39:02"
+ },
+ {
+  "TradeId": 10860,
+  "Uid": 10016,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-20 02:25:29"
+ },
+ {
+  "TradeId": 10861,
+  "Uid": 10016,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-10 07:01:25"
+ },
+ {
+  "TradeId": 10862,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-25 23:58:40"
+ },
+ {
+  "TradeId": 10863,
+  "Uid": 10016,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-09-28 14:03:32"
+ },
+ {
+  "TradeId": 10864,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-21 02:52:44"
+ },
+ {
+  "TradeId": 10865,
+  "Uid": 10016,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-26 02:08:03"
+ },
+ {
+  "TradeId": 10866,
+  "Uid": 10017,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-04 06:45:21"
+ },
+ {
+  "TradeId": 10867,
+  "Uid": 10017,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-18 07:15:24"
+ },
+ {
+  "TradeId": 10868,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-08 15:17:59"
+ },
+ {
+  "TradeId": 10869,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-12 12:28:34"
+ },
+ {
+  "TradeId": 10870,
+  "Uid": 10017,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-23 11:35:43"
+ },
+ {
+  "TradeId": 10871,
+  "Uid": 10017,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-04 15:05:46"
+ },
+ {
+  "TradeId": 10872,
+  "Uid": 10017,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-25 04:40:55"
+ },
+ {
+  "TradeId": 10873,
+  "Uid": 10017,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-09-26 17:45:38"
+ },
+ {
+  "TradeId": 10874,
+  "Uid": 10017,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-10-07 16:31:20"
+ },
+ {
+  "TradeId": 10875,
+  "Uid": 10017,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-14 14:19:31"
+ },
+ {
+  "TradeId": 10876,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-22 11:35:21"
+ },
+ {
+  "TradeId": 10877,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-13 18:19:46"
+ },
+ {
+  "TradeId": 10878,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-23 21:40:57"
+ },
+ {
+  "TradeId": 10879,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-28 06:58:59"
+ },
+ {
+  "TradeId": 10880,
+  "Uid": 10017,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-25 14:55:26"
+ },
+ {
+  "TradeId": 10881,
+  "Uid": 10017,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-09-30 22:41:11"
+ },
+ {
+  "TradeId": 10882,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-12 01:32:06"
+ },
+ {
+  "TradeId": 10883,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-15 13:44:21"
+ },
+ {
+  "TradeId": 10884,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-13 02:01:03"
+ },
+ {
+  "TradeId": 10885,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-18 12:43:05"
+ },
+ {
+  "TradeId": 10886,
+  "Uid": 10017,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-19 12:37:28"
+ },
+ {
+  "TradeId": 10887,
+  "Uid": 10017,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-26 01:02:16"
+ },
+ {
+  "TradeId": 10888,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-18 21:58:37"
+ },
+ {
+  "TradeId": 10889,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-28 01:25:05"
+ },
+ {
+  "TradeId": 10890,
+  "Uid": 10017,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-26 11:23:57"
+ },
+ {
+  "TradeId": 10891,
+  "Uid": 10017,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-15 19:51:27"
+ },
+ {
+  "TradeId": 10892,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-22 00:48:41"
+ },
+ {
+  "TradeId": 10893,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-28 19:46:43"
+ },
+ {
+  "TradeId": 10894,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-27 01:49:07"
+ },
+ {
+  "TradeId": 10895,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-28 08:26:54"
+ },
+ {
+  "TradeId": 10896,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-19 09:02:25"
+ },
+ {
+  "TradeId": 10897,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-09-27 08:11:22"
+ },
+ {
+  "TradeId": 10898,
+  "Uid": 10017,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-21 03:47:33"
+ },
+ {
+  "TradeId": 10899,
+  "Uid": 10017,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-08 00:04:22"
+ },
+ {
+  "TradeId": 10900,
+  "Uid": 10017,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-28 23:09:34"
+ },
+ {
+  "TradeId": 10901,
+  "Uid": 10017,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-17 21:56:32"
+ },
+ {
+  "TradeId": 10902,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-05 02:42:27"
+ },
+ {
+  "TradeId": 10903,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-13 02:24:01"
+ },
+ {
+  "TradeId": 10904,
+  "Uid": 10017,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-23 17:33:45"
+ },
+ {
+  "TradeId": 10905,
+  "Uid": 10017,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-16 10:53:03"
+ },
+ {
+  "TradeId": 10906,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-01 20:44:28"
+ },
+ {
+  "TradeId": 10907,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-12 05:28:20"
+ },
+ {
+  "TradeId": 10908,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-02 00:10:36"
+ },
+ {
+  "TradeId": 10909,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-15 03:36:26"
+ },
+ {
+  "TradeId": 10910,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-29 11:42:35"
+ },
+ {
+  "TradeId": 10911,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-05 02:43:55"
+ },
+ {
+  "TradeId": 10912,
+  "Uid": 10017,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-26 01:51:40"
+ },
+ {
+  "TradeId": 10913,
+  "Uid": 10017,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-11 18:33:16"
+ },
+ {
+  "TradeId": 10914,
+  "Uid": 10017,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-25 20:10:07"
+ },
+ {
+  "TradeId": 10915,
+  "Uid": 10017,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-29 07:42:40"
+ },
+ {
+  "TradeId": 10916,
+  "Uid": 10017,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-25 21:09:49"
+ },
+ {
+  "TradeId": 10917,
+  "Uid": 10017,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-09 02:24:50"
+ },
+ {
+  "TradeId": 10918,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-26 12:50:35"
+ },
+ {
+  "TradeId": 10919,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-04 16:56:09"
+ },
+ {
+  "TradeId": 10920,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-27 11:17:31"
+ },
+ {
+  "TradeId": 10921,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-17 06:16:32"
+ },
+ {
+  "TradeId": 10922,
+  "Uid": 10017,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-19 18:14:04"
+ },
+ {
+  "TradeId": 10923,
+  "Uid": 10017,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-23 23:00:16"
+ },
+ {
+  "TradeId": 10924,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-30 09:50:31"
+ },
+ {
+  "TradeId": 10925,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-17 22:06:58"
+ },
+ {
+  "TradeId": 10926,
+  "Uid": 10017,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-20 19:11:17"
+ },
+ {
+  "TradeId": 10927,
+  "Uid": 10017,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-20 19:15:52"
+ },
+ {
+  "TradeId": 10928,
+  "Uid": 10017,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-24 03:10:43"
+ },
+ {
+  "TradeId": 10929,
+  "Uid": 10017,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-12 03:21:51"
+ },
+ {
+  "TradeId": 10930,
+  "Uid": 10017,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-22 13:04:33"
+ },
+ {
+  "TradeId": 10931,
+  "Uid": 10017,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-09-29 00:23:31"
+ },
+ {
+  "TradeId": 10932,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-08 17:46:16"
+ },
+ {
+  "TradeId": 10933,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-16 07:24:49"
+ },
+ {
+  "TradeId": 10934,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-06 18:24:47"
+ },
+ {
+  "TradeId": 10935,
+  "Uid": 10017,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-09 01:29:15"
+ },
+ {
+  "TradeId": 10936,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-21 16:30:47"
+ },
+ {
+  "TradeId": 10937,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-15 10:21:39"
+ },
+ {
+  "TradeId": 10938,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-18 19:18:28"
+ },
+ {
+  "TradeId": 10939,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-20 01:10:24"
+ },
+ {
+  "TradeId": 10940,
+  "Uid": 10017,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-27 10:44:27"
+ },
+ {
+  "TradeId": 10941,
+  "Uid": 10017,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-10 19:05:24"
+ },
+ {
+  "TradeId": 10942,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-24 06:58:31"
+ },
+ {
+  "TradeId": 10943,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-02 15:20:54"
+ },
+ {
+  "TradeId": 10944,
+  "Uid": 10017,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-27 03:08:14"
+ },
+ {
+  "TradeId": 10945,
+  "Uid": 10017,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-08 01:26:47"
+ },
+ {
+  "TradeId": 10946,
+  "Uid": 10017,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-22 03:24:09"
+ },
+ {
+  "TradeId": 10947,
+  "Uid": 10017,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-02 12:10:08"
+ },
+ {
+  "TradeId": 10948,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-07 03:15:34"
+ },
+ {
+  "TradeId": 10949,
+  "Uid": 10017,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-10 10:05:19"
+ },
+ {
+  "TradeId": 10950,
+  "Uid": 10017,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-27 17:46:17"
+ },
+ {
+  "TradeId": 10951,
+  "Uid": 10017,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-09-30 02:38:01"
+ },
+ {
+  "TradeId": 10952,
+  "Uid": 10018,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-13 20:50:17"
+ },
+ {
+  "TradeId": 10953,
+  "Uid": 10018,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-18 00:00:45"
+ },
+ {
+  "TradeId": 10954,
+  "Uid": 10018,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-27 02:11:45"
+ },
+ {
+  "TradeId": 10955,
+  "Uid": 10018,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-06 04:56:02"
+ },
+ {
+  "TradeId": 10956,
+  "Uid": 10018,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-23 05:40:07"
+ },
+ {
+  "TradeId": 10957,
+  "Uid": 10018,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-04 01:27:55"
+ },
+ {
+  "TradeId": 10958,
+  "Uid": 10018,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-02 21:37:03"
+ },
+ {
+  "TradeId": 10959,
+  "Uid": 10018,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-07 10:53:33"
+ },
+ {
+  "TradeId": 10960,
+  "Uid": 10018,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-01 11:12:18"
+ },
+ {
+  "TradeId": 10961,
+  "Uid": 10018,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-08 19:07:10"
+ },
+ {
+  "TradeId": 10962,
+  "Uid": 10018,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-03 02:55:28"
+ },
+ {
+  "TradeId": 10963,
+  "Uid": 10018,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-10 06:03:39"
+ },
+ {
+  "TradeId": 10964,
+  "Uid": 10018,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-04 14:39:00"
+ },
+ {
+  "TradeId": 10965,
+  "Uid": 10018,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-06 07:56:33"
+ },
+ {
+  "TradeId": 10966,
+  "Uid": 10018,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-04 05:15:34"
+ },
+ {
+  "TradeId": 10967,
+  "Uid": 10018,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-17 14:44:57"
+ },
+ {
+  "TradeId": 10968,
+  "Uid": 10018,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-27 15:12:16"
+ },
+ {
+  "TradeId": 10969,
+  "Uid": 10018,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-01 17:41:49"
+ },
+ {
+  "TradeId": 10970,
+  "Uid": 10018,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-01 08:33:02"
+ },
+ {
+  "TradeId": 10971,
+  "Uid": 10018,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-04 16:43:10"
+ },
+ {
+  "TradeId": 10972,
+  "Uid": 10018,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-10 00:50:57"
+ },
+ {
+  "TradeId": 10973,
+  "Uid": 10018,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-14 08:52:23"
+ },
+ {
+  "TradeId": 10974,
+  "Uid": 10018,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-21 10:06:35"
+ },
+ {
+  "TradeId": 10975,
+  "Uid": 10018,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-09-21 11:38:36"
+ },
+ {
+  "TradeId": 10976,
+  "Uid": 10018,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-23 16:26:35"
+ },
+ {
+  "TradeId": 10977,
+  "Uid": 10018,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-11 02:40:27"
+ },
+ {
+  "TradeId": 10978,
+  "Uid": 10018,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-26 22:50:26"
+ },
+ {
+  "TradeId": 10979,
+  "Uid": 10018,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-10 06:34:22"
+ },
+ {
+  "TradeId": 10980,
+  "Uid": 10018,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-22 23:04:44"
+ },
+ {
+  "TradeId": 10981,
+  "Uid": 10018,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-06 01:35:31"
+ },
+ {
+  "TradeId": 10982,
+  "Uid": 10018,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-23 09:23:38"
+ },
+ {
+  "TradeId": 10983,
+  "Uid": 10018,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-02 00:18:39"
+ },
+ {
+  "TradeId": 10984,
+  "Uid": 10018,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-09 14:31:18"
+ },
+ {
+  "TradeId": 10985,
+  "Uid": 10018,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-15 17:45:18"
+ },
+ {
+  "TradeId": 10986,
+  "Uid": 10018,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-27 21:50:46"
+ },
+ {
+  "TradeId": 10987,
+  "Uid": 10018,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-07 00:25:58"
+ },
+ {
+  "TradeId": 10988,
+  "Uid": 10018,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-12 15:00:30"
+ },
+ {
+  "TradeId": 10989,
+  "Uid": 10018,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-17 21:34:48"
+ },
+ {
+  "TradeId": 10990,
+  "Uid": 10018,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-01 18:18:41"
+ },
+ {
+  "TradeId": 10991,
+  "Uid": 10018,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-06 20:39:54"
+ },
+ {
+  "TradeId": 10992,
+  "Uid": 10019,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-28 11:48:34"
+ },
+ {
+  "TradeId": 10993,
+  "Uid": 10019,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-09 01:34:36"
+ },
+ {
+  "TradeId": 10994,
+  "Uid": 10019,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-26 14:28:34"
+ },
+ {
+  "TradeId": 10995,
+  "Uid": 10019,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-07 13:55:02"
+ },
+ {
+  "TradeId": 10996,
+  "Uid": 10019,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-10-13 12:36:20"
+ },
+ {
+  "TradeId": 10997,
+  "Uid": 10019,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-15 03:02:34"
+ },
+ {
+  "TradeId": 10998,
+  "Uid": 10019,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-21 16:24:15"
+ },
+ {
+  "TradeId": 10999,
+  "Uid": 10019,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-16 17:07:32"
+ },
+ {
+  "TradeId": 11000,
+  "Uid": 10019,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-25 15:10:23"
+ },
+ {
+  "TradeId": 11001,
+  "Uid": 10019,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-09-29 00:13:59"
+ },
+ {
+  "TradeId": 11002,
+  "Uid": 10019,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-09-25 09:41:00"
+ },
+ {
+  "TradeId": 11003,
+  "Uid": 10019,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-01 22:17:11"
+ },
+ {
+  "TradeId": 11004,
+  "Uid": 10019,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-18 20:32:50"
+ },
+ {
+  "TradeId": 11005,
+  "Uid": 10019,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-14 03:47:55"
+ },
+ {
+  "TradeId": 11006,
+  "Uid": 10019,
+  "Company": "MFC",
+  "Type": "BUY",
+  "Time": "2022-09-29 23:49:58"
+ },
+ {
+  "TradeId": 11007,
+  "Uid": 10019,
+  "Company": "MFC",
+  "Type": "SELL",
+  "Time": "2022-10-01 18:14:08"
+ },
+ {
+  "TradeId": 11008,
+  "Uid": 10019,
+  "Company": "IBM",
+  "Type": "BUY",
+  "Time": "2022-10-04 12:41:38"
+ },
+ {
+  "TradeId": 11009,
+  "Uid": 10019,
+  "Company": "IBM",
+  "Type": "SELL",
+  "Time": "2022-10-06 22:43:02"
+ },
+ {
+  "TradeId": 11010,
+  "Uid": 10019,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-10-13 11:49:22"
+ },
+ {
+  "TradeId": 11011,
+  "Uid": 10019,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-15 15:12:22"
+ },
+ {
+  "TradeId": 11012,
+  "Uid": 10019,
+  "Company": "AMZN",
+  "Type": "BUY",
+  "Time": "2022-09-29 08:51:13"
+ },
+ {
+  "TradeId": 11013,
+  "Uid": 10019,
+  "Company": "AMZN",
+  "Type": "SELL",
+  "Time": "2022-10-18 15:33:18"
+ },
+ {
+  "TradeId": 11014,
+  "Uid": 10019,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-09 02:29:39"
+ },
+ {
+  "TradeId": 11015,
+  "Uid": 10019,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-16 06:34:58"
+ },
+ {
+  "TradeId": 11016,
+  "Uid": 10019,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-25 00:42:48"
+ },
+ {
+  "TradeId": 11017,
+  "Uid": 10019,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-02 16:00:31"
+ },
+ {
+  "TradeId": 11018,
+  "Uid": 10019,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-09-26 13:30:28"
+ },
+ {
+  "TradeId": 11019,
+  "Uid": 10019,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-12 16:36:23"
+ },
+ {
+  "TradeId": 11020,
+  "Uid": 10019,
+  "Company": "TSLA",
+  "Type": "BUY",
+  "Time": "2022-10-09 22:55:31"
+ },
+ {
+  "TradeId": 11021,
+  "Uid": 10019,
+  "Company": "TSLA",
+  "Type": "SELL",
+  "Time": "2022-10-13 20:49:46"
+ },
+ {
+  "TradeId": 11022,
+  "Uid": 10019,
+  "Company": "AAPL",
+  "Type": "BUY",
+  "Time": "2022-09-19 23:23:53"
+ },
+ {
+  "TradeId": 11023,
+  "Uid": 10019,
+  "Company": "AAPL",
+  "Type": "SELL",
+  "Time": "2022-10-03 19:59:57"
+ }
+]
