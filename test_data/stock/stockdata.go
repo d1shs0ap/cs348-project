@@ -23,7 +23,6 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	//fmt.Println(string(body))
 	connStr := "user=postgres password=adai dbname=stock sslmode=disable"
 	// Connect to database
 	db, err := sql.Open("postgres", connStr)
