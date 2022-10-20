@@ -9,7 +9,7 @@ CREATE TABLE users
 
 CREATE TABLE stocks_table 
   ( 
-     username  VARCHAR(50) NOT NULL , 
+     username  VARCHAR(50) NOT NULL, 
      ticker_sym  VARCHAR(30) not null, 
      num_stocks DECIMAL(9, 0),
      price DECIMAL(9,0),
@@ -19,7 +19,7 @@ CREATE TABLE stocks_table
 
 CREATE TABLE user_league_table 
   ( 
-     username  VARCHAR(50) NOT NULL , 
+     username  VARCHAR(50) NOT NULL, 
      lid DECIMAL(3, 0) not null, 
      balance      DECIMAL(9, 0) default 10000, 
      PRIMARY KEY(username, lid)

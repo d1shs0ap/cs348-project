@@ -1,7 +1,6 @@
 # Important files
 ### C2: SQL code
 Under `db`.
-###### C2. Files containing the SQL code used for creating tables, constraints, stored procedures and triggers (if any).
 
 ### C3: `test-sample.sql`
 Under `db`, along with `test-sample.out`.
@@ -10,8 +9,12 @@ Under `db`, along with `test-sample.out`.
 # Running the application
 ### To start database
 1. [Install PostgreSQL](https://www.postgresql.org/download/).
-2. Run ``. 
-###### C1 How to create and load your sample database;
+2. [Install Postico](https://eggerapps.at/postico/).
+3. Connect to localhost.
+4. Create a new database using "+ Database", name your database `fantasy-stock`.
+5. Select `SQL Query`, then `Load Query...`.
+6. Select `cs348-project/db/createleague.sql` in the modal popped up.
+7. Run the query with "Execute Statement".
 
 ### To start server
 1. [Install Go](https://go.dev/doc/install).
@@ -19,7 +22,7 @@ Under `db`, along with `test-sample.out`.
 
 ### To start client
 1. Go through steps 1-3 of the [Flutter installation guide](https://docs.flutter.dev/get-started/install).
-2. Invoke `Run > Start Debugging` on your IDE, select `web` as your chosen device. This step will make sense if you've followed step 1.
+2. Open VS Code at `cs348-project/client`, then invoke `Run > Start Debugging`, selecting `web` as your chosen device. This step will make sense if you've followed step 1.
 
 
 # Features

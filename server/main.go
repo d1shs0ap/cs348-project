@@ -33,7 +33,7 @@ func setupRouter() *gin.Engine {
 
 		var username string
     // Query for a value based on a single row.
-    if err := db.QueryRow(`SELECT username FROM users WHERE username = $1 AND password = $2`, creds.Username, creds.Password).Scan(&username); err != nil {
+    if err := db.QueryRow(`SELECT username FROM users WHERE username = $1 AND pwd = $2`, creds.Username, creds.Password).Scan(&username); err != nil {
         if err == sql.ErrNoRows {
           c.JSON(http.StatusBadRequest, "Incorrect username or password")
         } else {
@@ -56,7 +56,7 @@ func setupRouter() *gin.Engine {
     // Query for a value based on a single row.
     if err := db.QueryRow(`SELECT username FROM users WHERE username = $1`, creds.Username).Scan(&username); err != nil {
         if err == sql.ErrNoRows {
-					if _, err := db.Exec(`INSERT INTO users (username, password) VALUES ($1, $2)`, creds.Username, creds.Password); err != nil {
+					if _, err := db.Exec(`INSERT INTO users (username, pwd) VALUES ($1, $2)`, creds.Username, creds.Password); err != nil {
 						panic(err)
 					}
           c.JSON(http.StatusOK, "Successfully registered user!")
