@@ -186,12 +186,7 @@ class ProfilePage extends StatelessWidget {
             var user = snapshot.data?.getString('user');
             return Scaffold(
               body: Center(
-                child: ElevatedButton(
-                  onPressed: () {
-                    // Navigate back to first route when tapped.
-                  },
-                  child: const Text('Go back!'),
-                ),
+                child: Text('Signed into user $user!'),
               ),
             );
           }
